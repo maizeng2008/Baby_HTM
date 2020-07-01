@@ -56,7 +56,10 @@ class TemporalMemoryPooler:
                                 self.temporal_memory_pooler[winner_column_num][now_col_cell][pre_col_num][pre_col_cell] \
                                     += self.permanence_inc
                                 recording_previous[winner_column_num][now_col_cell] = 1
-                                recording_predicted += self.temporal_memory_pooler[winner_column_num][now_col_cell]
+                                recording_predicted_slice = \
+                                    self.temporal_memory_pooler[winner_column_num][now_col_cell]
+                                recording_predicted = np.add(recording_predicted, recording_predicted_slice)
+                                # recording_predicted += self.temporal_memory_pooler[winner_column_num][now_col_cell]
                         else:
                             now_col_cells = np.where(self.predicted_state_columns[winner_column_num] == 0)
                             if len(now_col_cells) == 0:
@@ -68,35 +71,44 @@ class TemporalMemoryPooler:
                                         pre_col_cell] \
                                         = self.base_value
                                     recording_previous[winner_column_num][now_col_cell] = 1
-                                    recording_predicted += self.temporal_memory_pooler[winner_column_num][now_col_cell]
+                                    recording_predicted_slice = \
+                                        self.temporal_memory_pooler[winner_column_num][now_col_cell]
+                                    recording_predicted = np.add(recording_predicted, recording_predicted_slice)
+                                    # recording_predicted += self.temporal_memory_pooler[winner_column_num][now_col_cell]
                                 else:
                                     self.temporal_memory_pooler[winner_column_num][now_col_cell][pre_col_num][
                                         pre_col_cell] \
                                         += self.permanence_inc
                                     recording_previous[winner_column_num][now_col_cell] = 1
-                                    recording_predicted += self.temporal_memory_pooler[winner_column_num][now_col_cell]
+                                    recording_predicted_slice = \
+                                        self.temporal_memory_pooler[winner_column_num][now_col_cell]
+                                    recording_predicted = np.add(recording_predicted, recording_predicted_slice)
+                                    # recording_predicted += self.temporal_memory_pooler[winner_column_num][now_col_cell]
                             else:
                                 for now_col_cell in now_col_cells[0]:
-                                    if self.temporal_memory_pooler[winner_column_num][now_col_cell][pre_col_num][
-                                        pre_col_cell] \
+                                    if self.temporal_memory_pooler[winner_column_num][now_col_cell][pre_col_num][pre_col_cell] \
                                             == 0:
                                         self.temporal_memory_pooler[winner_column_num][now_col_cell][pre_col_num][
                                             pre_col_cell] \
                                             = self.base_value
                                         recording_previous[winner_column_num][now_col_cell] = 1
-                                        recording_predicted += self.temporal_memory_pooler[winner_column_num][
-                                            now_col_cell]
+                                        recording_predicted_slice = \
+                                            self.temporal_memory_pooler[winner_column_num][now_col_cell]
+                                        recording_predicted = np.add(recording_predicted, recording_predicted_slice)
+                                        # recording_predicted += self.temporal_memory_pooler[winner_column_num][
+                                        #     now_col_cell]
                                     else:
                                         self.temporal_memory_pooler[winner_column_num][now_col_cell][pre_col_num][pre_col_cell] \
                                             += self.permanence_inc
                                         recording_previous[winner_column_num][now_col_cell] = 1
-                                        copy = self.temporal_memory_pooler[winner_column_num][now_col_cell]
-                                        # print("now_col_cell{}".format(now_col_cell))
-                                        recording_predicted += copy
-            # update previous col matrix
-        # np.copyto(self.previous_active_columns, recording_previous)
+                                        recording_predicted_slice = \
+                                            self.temporal_memory_pooler[winner_column_num][now_col_cell]
+                                        recording_predicted = np.add(recording_predicted, recording_predicted_slice)
+                                        # copy = self.temporal_memory_pooler[winner_column_num][now_col_cell]
+                                        # recording_predicted += copy
+        # update previous col matrix
         self.previous_active_columns = 0 + recording_previous
-        np.copyto(self.predicted_state_columns, recording_predicted)
+        # np.copyto(self.predicted_state_columns, recording_predicted)
         self.predicted_state_columns_nums = np.where(np.sum(recording_predicted, axis=0) > 0)
         recording_previous_sum = np.sum(recording_previous, axis=1)
         previous_active_col_nums_index = np.where(recording_previous_sum > 0)[0]
