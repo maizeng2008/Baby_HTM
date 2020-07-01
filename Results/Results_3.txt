@@ -1,0 +1,2227 @@
+First time meet this value: Set
+First time meet this value: Reset
+First time meet this value: print
+The predict value coming after value: Set
+The probability that Set will come next is: 0.11399787910922575
+The probability that Reset will come next is: 0.28525980911983045
+The probability that print will come next is: 0.6007423117709438
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.4857012868841941
+The probability that Reset will come next is: 0.30209281164694446
+The probability that print will come next is: 0.21220590146886145
+The predict value coming after value: print
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16693037974684036
+The probability that Reset will come next is: 0.26155542769467327
+The probability that print will come next is: 0.5715141925584865
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.4700135607464169
+The probability that Reset will come next is: 0.3062818725289818
+The probability that print will come next is: 0.2237045667246013
+The predict value coming after value: print
+The probability that Set will come next is: 0.25162444211079577
+The probability that Reset will come next is: 0.5102389078498183
+The probability that print will come next is: 0.2381366500393859
+The predict value coming after value: Set
+The probability that Set will come next is: 0.17077256602286867
+The probability that Reset will come next is: 0.27449743791881365
+The probability that print will come next is: 0.5547299960583176
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.47566259506799086
+The probability that Reset will come next is: 0.30787431819927347
+The probability that print will come next is: 0.21646308673273565
+The predict value coming after value: print
+The probability that Set will come next is: 0.24859425453735126
+The probability that Reset will come next is: 0.5200423115466027
+The probability that print will come next is: 0.231363433916046
+The predict value coming after value: Set
+The probability that Set will come next is: 0.17358263360020804
+The probability that Reset will come next is: 0.2779079606847609
+The probability that print will come next is: 0.548509405715031
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.478057384460591
+The probability that Reset will come next is: 0.3117048508080519
+The probability that print will come next is: 0.21023776473135714
+The predict value coming after value: print
+The probability that Set will come next is: 0.25516734007520164
+The probability that Reset will come next is: 0.5106382978723348
+The probability that print will come next is: 0.23419436205246352
+The predict value coming after value: Set
+The probability that Set will come next is: 0.19760929587417295
+The probability that Reset will come next is: 0.27934729982596834
+The probability that print will come next is: 0.5230434042998587
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.45780144020293895
+The probability that Reset will come next is: 0.3171003641422199
+The probability that print will come next is: 0.2250981956548412
+The predict value coming after value: print
+The probability that Set will come next is: 0.2598016261547014
+The probability that Reset will come next is: 0.4966346449467617
+The probability that print will come next is: 0.2435637288985368
+The predict value coming after value: Set
+The probability that Set will come next is: 0.21332942849970896
+The probability that Reset will come next is: 0.27911890218391766
+The probability that print will come next is: 0.5075516693163733
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.43619019095183664
+The probability that Reset will come next is: 0.32879900274407703
+The probability that print will come next is: 0.23501080630408633
+The predict value coming after value: print
+The probability that Set will come next is: 0.27474906367040336
+The probability that Reset will come next is: 0.46504119850188474
+The probability that print will come next is: 0.260209737827712
+The predict value coming after value: Set
+The probability that Set will come next is: 0.20290242555466564
+The probability that Reset will come next is: 0.30459689507963145
+The probability that print will come next is: 0.49250067936570296
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.42002266116718445
+The probability that Reset will come next is: 0.33413821930206977
+The probability that print will come next is: 0.24583911953074566
+The predict value coming after value: print
+The probability that Set will come next is: 0.2832724553834039
+The probability that Reset will come next is: 0.4394550402039752
+The probability that print will come next is: 0.27727250441262086
+The predict value coming after value: Set
+The probability that Set will come next is: 0.19378404676713132
+The probability that Reset will come next is: 0.3100506439675395
+The probability that print will come next is: 0.49616530926532915
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.4008352408535867
+The probability that Reset will come next is: 0.33617997862783117
+The probability that print will come next is: 0.26298478051858215
+The predict value coming after value: print
+The probability that Set will come next is: 0.2776503263288113
+The probability that Reset will come next is: 0.43007429357379456
+The probability that print will come next is: 0.2922753800973941
+The predict value coming after value: Set
+The probability that Set will come next is: 0.21582165273666973
+The probability that Reset will come next is: 0.30516764772837746
+The probability that print will come next is: 0.47901069953495273
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.3861180634559509
+The probability that Reset will come next is: 0.33840475287574123
+The probability that print will come next is: 0.2754771836683079
+The predict value coming after value: print
+The probability that Set will come next is: 0.2860896769347691
+The probability that Reset will come next is: 0.41231811650919337
+The probability that print will come next is: 0.3015922065560375
+The predict value coming after value: Set
+The probability that Set will come next is: 0.21730961923847025
+The probability that Reset will come next is: 0.3174644744033489
+The probability that print will come next is: 0.4652259063581808
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.3764828690274833
+The probability that Reset will come next is: 0.3365283372619867
+The probability that print will come next is: 0.28698879371053
+The predict value coming after value: print
+The probability that Set will come next is: 0.28975918137740136
+The probability that Reset will come next is: 0.40922887350789916
+The probability that print will come next is: 0.3010119451146994
+The predict value coming after value: Set
+The probability that Set will come next is: 0.2178887372226982
+The probability that Reset will come next is: 0.31781475654103286
+The probability that print will come next is: 0.4642965062362689
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.37529831565188726
+The probability that Reset will come next is: 0.3360845535652787
+The probability that print will come next is: 0.28861713078283413
+The predict value coming after value: print
+The probability that Set will come next is: 0.29442013691303526
+The probability that Reset will come next is: 0.4049535344461802
+The probability that print will come next is: 0.3006263286407844
+The predict value coming after value: Set
+The probability that Set will come next is: 0.23986264239321553
+The probability that Reset will come next is: 0.31786666184392764
+The probability that print will come next is: 0.4422706957628568
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.36925965980989794
+The probability that Reset will come next is: 0.341295503369529
+The probability that print will come next is: 0.289444836820573
+The predict value coming after value: print
+The probability that Set will come next is: 0.3054927330118947
+The probability that Reset will come next is: 0.39900967775504076
+The probability that print will come next is: 0.2954975892330646
+The predict value coming after value: Set
+The probability that Set will come next is: 0.24526788710033223
+The probability that Reset will come next is: 0.32489340982184534
+The probability that print will come next is: 0.42983870307782246
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.36728064863410814
+The probability that Reset will come next is: 0.34344132687390433
+The probability that print will come next is: 0.2892780244919876
+The predict value coming after value: print
+The probability that Set will come next is: 0.3110542560103999
+The probability that Reset will come next is: 0.3961874593892113
+The probability that print will come next is: 0.29275828460038894
+The predict value coming after value: Set
+The probability that Set will come next is: 0.24532810162142055
+The probability that Reset will come next is: 0.3310406424623644
+The probability that print will come next is: 0.42363125591621503
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.3678414586162773
+The probability that Reset will come next is: 0.34308483633086256
+The probability that print will come next is: 0.28907370505285995
+The predict value coming after value: print
+The probability that Set will come next is: 0.31198440240077513
+The probability that Reset will come next is: 0.3945602909575877
+The probability that print will come next is: 0.29345530664163716
+The predict value coming after value: Set
+The probability that Set will come next is: 0.24737506236938378
+The probability that Reset will come next is: 0.33117782325419987
+The probability that print will come next is: 0.42144711437641624
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.3676345170957876
+The probability that Reset will come next is: 0.3431905130838462
+The probability that print will come next is: 0.28917496982036617
+The predict value coming after value: print
+The probability that Set will come next is: 0.31465578152784357
+The probability that Reset will come next is: 0.3929322161640173
+The probability that print will come next is: 0.29241200230813924
+The predict value coming after value: Set
+The probability that Set will come next is: 0.268010360755574
+The probability that Reset will come next is: 0.32751696686622694
+The probability that print will come next is: 0.40447267237819906
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.37429449778330987
+The probability that Reset will come next is: 0.3395280211188247
+The probability that print will come next is: 0.2861774810978655
+The predict value coming after value: print
+The probability that Set will come next is: 0.3283203406158997
+The probability that Reset will come next is: 0.3847556114143942
+The probability that print will come next is: 0.2869240479697063
+The predict value coming after value: Set
+The probability that Set will come next is: 0.26851806120621813
+The probability that Reset will come next is: 0.3287550084271236
+The probability that print will come next is: 0.40272693036665824
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.3734800905922202
+The probability that Reset will come next is: 0.3401986925165045
+The probability that print will come next is: 0.2863212168912754
+The predict value coming after value: print
+The probability that Set will come next is: 0.3284141824799675
+The probability that Reset will come next is: 0.3845704600844968
+The probability that print will come next is: 0.2870153574355357
+The predict value coming after value: Set
+The probability that Set will come next is: 0.26859745087940695
+The probability that Reset will come next is: 0.32968517827860505
+The probability that print will come next is: 0.40171737084198816
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.37261971239311786
+The probability that Reset will come next is: 0.3410157430698229
+The probability that print will come next is: 0.2863645445370592
+The predict value coming after value: print
+The probability that Set will come next is: 0.32853464179563424
+The probability that Reset will come next is: 0.3844432202521234
+The probability that print will come next is: 0.28702213795224224
+The predict value coming after value: Set
+The probability that Set will come next is: 0.2689015955781513
+The probability that Reset will come next is: 0.3306583823353652
+The probability that print will come next is: 0.40044002208648355
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.37091793435337034
+The probability that Reset will come next is: 0.34180815211259064
+The probability that print will come next is: 0.2872739135340389
+The predict value coming after value: print
+The probability that Set will come next is: 0.3279337803855864
+The probability that Reset will come next is: 0.38431660174546933
+The probability that print will come next is: 0.2877496178689443
+The predict value coming after value: Set
+The probability that Set will come next is: 0.27174715238473507
+The probability that Reset will come next is: 0.33079955718836546
+The probability that print will come next is: 0.39745329042689953
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.37114120950709506
+The probability that Reset will come next is: 0.34156440058514076
+The probability that print will come next is: 0.28729438990776424
+The predict value coming after value: print
+The probability that Set will come next is: 0.32960101098713335
+The probability that Reset will come next is: 0.3829339017369776
+The probability that print will come next is: 0.28746508727588904
+The predict value coming after value: Set
+The probability that Set will come next is: 0.2719323785542001
+The probability that Reset will come next is: 0.3314906620501542
+The probability that print will come next is: 0.3965769593956456
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.36976946172964736
+The probability that Reset will come next is: 0.34233436439832443
+The probability that print will come next is: 0.28789617387202815
+The predict value coming after value: print
+The probability that Set will come next is: 0.3290428112261988
+The probability that Reset will come next is: 0.3829912836948665
+The probability that print will come next is: 0.28796590507893477
+The predict value coming after value: Set
+The probability that Set will come next is: 0.27174675196000914
+The probability that Reset will come next is: 0.3322921483047221
+The probability that print will come next is: 0.3959610997352688
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.36849243986705227
+The probability that Reset will come next is: 0.3430511584321865
+The probability that print will come next is: 0.2884564017007612
+The predict value coming after value: print
+The probability that Set will come next is: 0.3285203563075019
+The probability that Reset will come next is: 0.3830449911455717
+The probability that print will come next is: 0.28843465254692635
+The predict value coming after value: Set
+The probability that Set will come next is: 0.27157244756209986
+The probability that Reset will come next is: 0.33304474832760456
+The probability that print will come next is: 0.3953828041102956
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.36730065945972684
+The probability that Reset will come next is: 0.3437201063262442
+The probability that print will come next is: 0.288979234214029
+The predict value coming after value: print
+The probability that Set will come next is: 0.32803031932050003
+The probability that Reset will come next is: 0.3830953660896671
+The probability that print will come next is: 0.28887431458983287
+The predict value coming after value: Set
+The probability that Set will come next is: 0.27140846013012704
+The probability that Reset will come next is: 0.33375280243602773
+The probability that print will come next is: 0.3948387374338452
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.3661858613330928
+The probability that Reset will come next is: 0.3443458439659362
+The probability that print will come next is: 0.2894682947009711
+The predict value coming after value: print
+The probability that Set will come next is: 0.32756977379567154
+The probability that Reset will come next is: 0.38314270936309325
+The probability that print will come next is: 0.2892875168412352
+The predict value coming after value: Set
+The probability that Set will come next is: 0.27125390001115546
+The probability that Reset will come next is: 0.33442015191471985
+The probability that print will come next is: 0.39432594807412474
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.36514081992190783
+The probability that Reset will come next is: 0.3449324270704398
+The probability that print will come next is: 0.28992675300765236
+The predict value coming after value: print
+The probability that Set will come next is: 0.32713613521601037
+The probability that Reset will come next is: 0.38318728664968504
+The probability that print will come next is: 0.28967657813430453
+The predict value coming after value: Set
+The probability that Set will come next is: 0.27110797698297184
+The probability that Reset will come next is: 0.33505020873293406
+The probability that print will come next is: 0.39384181428409404
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.36415918648449974
+The probability that Reset will come next is: 0.34548341919671954
+The probability that print will come next is: 0.29035739431878077
+The predict value coming after value: print
+The probability that Set will come next is: 0.3267271124890327
+The probability that Reset will come next is: 0.3832293334697263
+The probability that print will come next is: 0.29004355404124094
+The predict value coming after value: Set
+The probability that Set will come next is: 0.2709699867407853
+The probability that Reset will come next is: 0.33564601389145005
+The probability that print will come next is: 0.39338399936776464
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.3632353600155289
+The probability that Reset will come next is: 0.3460019641963625
+The probability that print will come next is: 0.2907626757881085
+The predict value coming after value: print
+The probability that Set will come next is: 0.3263406674547876
+The probability that Reset will come next is: 0.38326905934249234
+The probability that print will come next is: 0.29039027320272004
+The predict value coming after value: Set
+The probability that Set will come next is: 0.27083929952940655
+The probability that Reset will come next is: 0.33621028650563756
+The probability that print will come next is: 0.39295041396495584
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.3623643803118764
+The probability that Reset will come next is: 0.34649084623783666
+The probability that print will come next is: 0.29114477345028694
+The predict value coming after value: print
+The probability that Set will come next is: 0.3259749809192236
+The probability that Reset will come next is: 0.38330665127794644
+The probability that print will come next is: 0.29071836780282995
+The predict value coming after value: Set
+The probability that Set will come next is: 0.2707153505338424
+The probability that Reset will come next is: 0.3367454652963995
+The probability that print will come next is: 0.39253918416975825
+The predict value coming after value: Reset
+The probability that Set will come next is: 0.361541838879405
+The probability that Reset will come next is: 0.3469525398146449
+The probability that print will come next is: 0.29150562130595
+The predict value coming after value: print
+The probability that Set will come next is: 0.32562842401807185
+The probability that Reset will come next is: 0.38334227672048
+The probability that print will come next is: 0.29102929926144827
+The predict value coming after value: Set
+The probability that Set will come next is: 0.2705976317189032
+The probability that Reset will come next is: 0.337253743824565
+The probability that print will come next is: 0.3921486244565317
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3252995339601336
+The probability that Reset will come next is: 0.3833760860424784
+The probability that print will come next is: 0.291324379997388
+The predict value coming after value: Set
+The probability that Set will come next is: 0.27048568486913094
+The probability that Reset will come next is: 0.33773710054250755
+The probability that print will come next is: 0.3917772145883616
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32498699338815984
+The probability that Reset will come next is: 0.3834082146659464
+The probability that print will come next is: 0.29160479194589384
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32468961274293695
+The probability that Reset will come next is: 0.3834387848754929
+The probability that print will come next is: 0.2918716023815701
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3244063151330103
+The probability that Reset will come next is: 0.38346790737367414
+The probability that print will come next is: 0.29212577749331553
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32413612330423236
+The probability that Reset will come next is: 0.38349568262049905
+The probability that print will come next is: 0.29236819407526854
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3238781483768011
+The probability that Reset will come next is: 0.38352220199126935
+The probability that print will come next is: 0.29259964963192947
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32363158007643006
+The probability that Reset will come next is: 0.3835475487807504
+The probability that print will come next is: 0.2928208711428195
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3233956782331524
+The probability that Reset will come next is: 0.38357179907712
+The probability that print will come next is: 0.2930325226897276
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32316976536017117
+The probability that Reset will come next is: 0.3835950225248386
+The probability that print will come next is: 0.29323521211499015
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32295322015583156
+The probability that Reset will come next is: 0.3836172829926161
+The probability that print will come next is: 0.2934294968515523
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32274547179745366
+The probability that Reset will come next is: 0.38363863916004776
+The probability that print will come next is: 0.29361588904249875
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32254599491689756
+The probability that Reset will come next is: 0.3836591450340345
+The probability that print will come next is: 0.2937948600490681
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32235430516435726
+The probability that Reset will come next is: 0.3836788504049039
+The probability that print will come next is: 0.29396684443073895
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3221699552819069
+The probability that Reset will come next is: 0.3836978012499839
+The probability that print will come next is: 0.2941322434681092
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32199253161953
+The probability that Reset will come next is: 0.3837160400917613
+The probability that print will come next is: 0.29429142828870875
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32182165103659227
+The probability that Reset will come next is: 0.38373360631644077
+The probability that print will come next is: 0.2944447426469671
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3216569581399769
+The probability that Reset will come next is: 0.38375053645779555
+The probability that print will come next is: 0.2945925054022274
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32149812281683265
+The probability that Reset will come next is: 0.3837668644508581
+The probability that print will come next is: 0.2947350127323093
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3213448380260328
+The probability that Reset will come next is: 0.38378262185891676
+The probability that print will come next is: 0.29487254011505043
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32119681781717596
+The probability that Reset will come next is: 0.3837978380771667
+The probability that print will come next is: 0.2950053441056574
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3210537955502281
+The probability that Reset will come next is: 0.38381254051574365
+The probability that print will come next is: 0.2951336639340282
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3209155222925645
+The probability that Reset will come next is: 0.3838267547644855
+The probability that print will come next is: 0.29525772294295005
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3207817653730419
+The probability that Reset will come next is: 0.38384050474157067
+The probability that print will come next is: 0.29537772988538735
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32065230707547443
+The probability that Reset will come next is: 0.3838538128278496
+The probability that print will come next is: 0.29549388009667604
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3205269434561184
+The probability that Reset will come next is: 0.38386669998837714
+The probability that print will come next is: 0.29560635655550443
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32040548327157525
+The probability that Reset will come next is: 0.3838791858826427
+The probability that print will come next is: 0.295715330845782
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32028774700533513
+The probability that Reset will come next is: 0.3838912889646326
+The probability that print will come next is: 0.29582096403003233
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32017356598248814
+The probability that Reset will come next is: 0.38390302657382436
+The probability that print will come next is: 0.29592340744368756
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.32006278156345563
+The probability that Reset will come next is: 0.38391441501808915
+The probability that print will come next is: 0.29602280341845527
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31995524440859846
+The probability that Reset will come next is: 0.38392546964928614
+The probability that print will come next is: 0.2961192859421154
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31985081380657904
+The probability that Reset will come next is: 0.38393620493229086
+The probability that print will come next is: 0.29621298126113005
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3197493570601016
+The probability that Reset will come next is: 0.38394663450815575
+The probability that print will come next is: 0.29630400843174265
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3196507489233651
+The probability that Reset will come next is: 0.3839567712519288
+The probability that print will come next is: 0.2963924798247062
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31955487108628794
+The probability that Reset will come next is: 0.3839666273256735
+The probability that print will come next is: 0.29647850158803846
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31946161170094844
+The probability that Reset will come next is: 0.38397621422716754
+The probability that print will come next is: 0.29656217407188395
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3193708649463206
+The probability that Reset will come next is: 0.3839855428346237
+The probability that print will come next is: 0.29664359221905573
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.319282530627735
+The probability that Reset will come next is: 0.38399462344788243
+The probability that print will come next is: 0.29672284592438264
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31919651380784253
+The probability that Reset will come next is: 0.3840034658263342
+The probability that print will come next is: 0.29680002036582326
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3191127244662595
+The probability that Reset will come next is: 0.3840120792239111
+The probability that print will come next is: 0.2968751963098294
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3190310771853147
+The probability that Reset will come next is: 0.3840204724214114
+The probability that print will come next is: 0.29694845039327383
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31895149085959545
+The probability that Reset will come next is: 0.3840286537563206
+The probability that print will come next is: 0.2970198553840839
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31887388842720105
+The probability that Reset will come next is: 0.384036631150471
+The probability that print will come next is: 0.29708948042232786
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31879819662087994
+The probability that Reset will come next is: 0.38404441213560914
+The probability that print will come next is: 0.29715739124351087
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3187243457372825
+The probability that Reset will come next is: 0.38405200387710947
+The probability that print will come next is: 0.29722365038560794
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31865226942286967
+The probability that Reset will come next is: 0.3840594131960114
+The probability that print will come next is: 0.29728831738111905
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31858190447508533
+The probability that Reset will come next is: 0.38406664658941797
+The probability that print will come next is: 0.2973514489354967
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3185131906574876
+The probability that Reset will come next is: 0.38407371024953474
+The probability that print will come next is: 0.2974130990929778
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31844607052778884
+The probability that Reset will come next is: 0.3840806100813257
+The probability that print will come next is: 0.29747331939088534
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3183804892776813
+The probability that Reset will come next is: 0.38408735171898567
+The probability that print will come next is: 0.29753215900333296
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31831639458357674
+The probability that Reset will come next is: 0.38409394054129664
+The probability that print will come next is: 0.29758966487512656
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31825373646739136
+The probability that Reset will come next is: 0.3841003816859118
+The probability that print will come next is: 0.29764588184669694
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3181924671665555
+The probability that Reset will come next is: 0.3841066800627441
+The probability that print will come next is: 0.2977008527707003
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3181325410126183
+The probability that Reset will come next is: 0.38411284036642573
+The probability that print will come next is: 0.29775461862095604
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3180739143176998
+The probability that Reset will come next is: 0.38411886708799303
+The probability that print will come next is: 0.2978072185943071
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3180165452682842
+The probability that Reset will come next is: 0.38412476452580613
+The probability that print will come next is: 0.2978586902059096
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.317960393825765
+The probability that Reset will come next is: 0.38413053679576276
+The probability that print will come next is: 0.29790906937847234
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3179054216332545
+The probability that Reset will come next is: 0.38413618784088366
+The probability that print will come next is: 0.29795839052586176
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3178515919282128
+The probability that Reset will come next is: 0.3841417214402961
+The probability that print will come next is: 0.29800668663149116
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31779886946045816
+The probability that Reset will come next is: 0.3841471412176498
+The probability that print will come next is: 0.2980539893218921
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31774722041518055
+The probability that Reset will come next is: 0.384152450649055
+The probability that print will come next is: 0.29810032893576444
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31769661234062774
+The probability that Reset will come next is: 0.3841576530704918
+The probability that print will come next is: 0.2981457345888806
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31764701408009927
+The probability that Reset will come next is: 0.38416275168481984
+The probability that print will come next is: 0.29819023423508095
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31759839570800574
+The probability that Reset will come next is: 0.3841677495683313
+The probability that print will come next is: 0.298233854723663
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31755072846963345
+The probability that Reset will come next is: 0.3841726496769565
+The probability that print will come next is: 0.29827662185341014
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3175039847244332
+The probability that Reset will come next is: 0.3841774548521055
+The probability that print will come next is: 0.29831856042346117
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31745813789260124
+The probability that Reset will come next is: 0.38418216782612913
+The probability that print will come next is: 0.29835969428126957
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31741316240464273
+The probability that Reset will come next is: 0.3841867912275285
+The probability that print will come next is: 0.2984000463678288
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3173690336538474
+The probability that Reset will come next is: 0.3841913275858333
+The probability that print will come next is: 0.29843963876031937
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3173257279513933
+The probability that Reset will come next is: 0.3841957793362029
+The probability that print will come next is: 0.29847849271240384
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3172832224839181
+The probability that Reset will come next is: 0.38420014882382386
+The probability that print will come next is: 0.29851662869225803
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31724149527349427
+The probability that Reset will come next is: 0.38420443830798146
+The probability that print will come next is: 0.2985540664185243
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3172005251396757
+The probability that Reset will come next is: 0.3842086499659889
+The probability that print will come next is: 0.2985908248943353
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31716029166370313
+The probability that Reset will come next is: 0.3842127858968638
+The probability that print will come next is: 0.29862692243943295
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31712077515454423
+The probability that Reset will come next is: 0.38421684812479856
+The probability that print will come next is: 0.29866237672065726
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3170819566167436
+The probability that Reset will come next is: 0.3842208386025077
+The probability that print will come next is: 0.2986972047807487
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3170438177200323
+The probability that Reset will come next is: 0.3842247592142973
+The probability that print will come next is: 0.29873142306567047
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3170063407703925
+The probability that Reset will come next is: 0.3842286117790894
+The probability that print will come next is: 0.29876504745051813
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31696950868275364
+The probability that Reset will come next is: 0.38423239805319737
+The probability that print will come next is: 0.298798093264049
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31693330495497846
+The probability that Reset will come next is: 0.38423611973300964
+The probability that print will come next is: 0.29883057531201185
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3168977136432161
+The probability that Reset will come next is: 0.38423977845753526
+The probability that print will come next is: 0.29886250789924856
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31686271933852794
+The probability that Reset will come next is: 0.3842433758107713
+The probability that print will come next is: 0.29889390485070083
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31682830714457466
+The probability that Reset will come next is: 0.3842469133240461
+The probability that print will come next is: 0.2989247795313792
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3167944626565481
+The probability that Reset will come next is: 0.38425039247814247
+The probability that print will come next is: 0.29895514486530944
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3167611719410075
+The probability that Reset will come next is: 0.3842538147054005
+The probability that print will come next is: 0.298985013353592
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.316728421516781
+The probability that Reset will come next is: 0.38425718139166215
+The probability that print will come next is: 0.2990143970915568
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3166961983367824
+The probability that Reset will come next is: 0.3842604938781325
+The probability that print will come next is: 0.29904330778508514
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3166644897706176
+The probability that Reset will come next is: 0.3842637534632056
+The probability that print will come next is: 0.29907175676617687
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3166332835881553
+The probability that Reset will come next is: 0.38426696140411054
+The probability that print will come next is: 0.29909975500773406
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3166025679437419
+The probability that Reset will come next is: 0.3842701189185664
+The probability that print will come next is: 0.2991273131376917
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3165723313612274
+The probability that Reset will come next is: 0.38427322718630263
+The probability that print will come next is: 0.2991544414524699
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.316542562719692
+The probability that Reset will come next is: 0.3842762873505151
+The probability that print will come next is: 0.2991811499297929
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3165132512397586
+The probability that Reset will come next is: 0.38427930051932185
+The probability that print will come next is: 0.29920744824091966
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.316484386470634
+The probability that Reset will come next is: 0.3842822677670376
+The probability that print will come next is: 0.29923334576232846
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3164559582776455
+The probability that Reset will come next is: 0.38428519013549295
+The probability that print will come next is: 0.2992588515868616
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31642795683038266
+The probability that Reset will come next is: 0.38428806863523973
+The probability that print will come next is: 0.2992839745343776
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3164003725914017
+The probability that Reset will come next is: 0.3842909042466962
+The probability that print will come next is: 0.2993087231619021
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3163731963053271
+The probability that Reset will come next is: 0.3842936979213128
+The probability that print will come next is: 0.29933310577336
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31634641898856414
+The probability that Reset will come next is: 0.3842964505825822
+The probability that print will come next is: 0.2993571304288536
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3163200319193564
+The probability that Reset will come next is: 0.3842991631270879
+The probability that print will come next is: 0.2993808049535556
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3162940266283183
+The probability that Reset will come next is: 0.38430183642547
+The probability that print will come next is: 0.29940413694621165
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3162683948894067
+The probability that Reset will come next is: 0.38430447132333845
+The probability that print will come next is: 0.2994271337872548
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3162431287111883
+The probability that Reset will come next is: 0.384307068642212
+The probability that print will come next is: 0.2994498026465998
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3162182203285859
+The probability that Reset will come next is: 0.3843096291803225
+The probability that print will come next is: 0.2994721504910915
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3161936621948937
+The probability that Reset will come next is: 0.3843121537134588
+The probability that print will come next is: 0.2994941840916475
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31616944697414595
+The probability that Reset will come next is: 0.38431464299574986
+The probability that print will come next is: 0.29951591003010414
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31614556753385564
+The probability that Reset will come next is: 0.3843170977603896
+The probability that print will come next is: 0.2995373347057549
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3161220169379426
+The probability that Reset will come next is: 0.38431951872040665
+The probability that print will come next is: 0.2995584643416507
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3160987884400825
+The probability that Reset will come next is: 0.384321906569308
+The probability that print will come next is: 0.2995793049906096
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3160758754772265
+The probability that Reset will come next is: 0.38432426198176334
+The probability that print will come next is: 0.2995998625410102
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3160532716634121
+The probability that Reset will come next is: 0.38432658561424293
+The probability that print will come next is: 0.29962014272234494
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31603097078387815
+The probability that Reset will come next is: 0.384328878105601
+The probability that print will come next is: 0.2996401511105207
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31600896678929474
+The probability that Reset will come next is: 0.38433114007770985
+The probability that print will come next is: 0.2996598931329954
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3159872537903613
+The probability that Reset will come next is: 0.38433337213597646
+The probability that print will come next is: 0.2996793740736622
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3159658260525164
+The probability that Reset will come next is: 0.3843355748699012
+The probability that print will come next is: 0.2996985990775824
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3159446779908769
+The probability that Reset will come next is: 0.3843377488536058
+The probability that print will come next is: 0.29971757315551734
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31592380416543814
+The probability that Reset will come next is: 0.3843398946463019
+The probability that print will come next is: 0.29973630118826006
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3159031992763311
+The probability that Reset will come next is: 0.3843420127928188
+The probability that print will come next is: 0.2997547879308501
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31588285815940786
+The probability that Reset will come next is: 0.3843441038240184
+The probability that print will come next is: 0.29977303801657373
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3158627757818905
+The probability that Reset will come next is: 0.384346168257257
+The probability that print will come next is: 0.2997910559608524
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31584294723820966
+The probability that Reset will come next is: 0.38434820659682645
+The probability that print will come next is: 0.299808846164964
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3158233677460605
+The probability that Reset will come next is: 0.3843502193343274
+The probability that print will come next is: 0.29982641291961215
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3158040326424833
+The probability that Reset will come next is: 0.38435220694911404
+The probability that print will come next is: 0.29984376040840266
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3157849373802271
+The probability that Reset will come next is: 0.38435416990863475
+The probability that print will come next is: 0.2998608927111383
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31576607752415337
+The probability that Reset will come next is: 0.38435610866881004
+The probability that print will come next is: 0.29987781380703654
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31574744874778954
+The probability that Reset will come next is: 0.38435802367440075
+The probability that print will come next is: 0.29989452757780993
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3157290468300718
+The probability that Reset will come next is: 0.3843599153593127
+The probability that print will come next is: 0.2999110378106154
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31571086765208245
+The probability that Reset will come next is: 0.38436178414697336
+The probability that print will come next is: 0.2999273482009442
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3156929071940426
+The probability that Reset will come next is: 0.3843636304506073
+The probability that print will come next is: 0.29994346235534997
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3156751615323134
+The probability that Reset will come next is: 0.38436545467355626
+The probability that print will come next is: 0.29995938379413034
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31565762683653564
+The probability that Reset will come next is: 0.3843672572095794
+The probability that print will come next is: 0.2999751159538848
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31564029936691707
+The probability that Reset will come next is: 0.38436903844310816
+The probability that print will come next is: 0.29999066218997483
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3156231754714982
+The probability that Reset will come next is: 0.38437079874956903
+The probability that print will come next is: 0.30000602577893276
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3156062515836625
+The probability that Reset will come next is: 0.3843725384956013
+The probability that print will come next is: 0.3000212099207362
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31558952421961356
+The probability that Reset will come next is: 0.3843742580393301
+The probability that print will come next is: 0.3000362177410562
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31557298997598404
+The probability that Reset will come next is: 0.38437595773062583
+The probability that print will come next is: 0.30005105229339013
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31555664552757856
+The probability that Reset will come next is: 0.38437763791129526
+The probability that print will come next is: 0.3000657165611262
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31554048762505765
+The probability that Reset will come next is: 0.3843792989153773
+The probability that print will come next is: 0.300080213459565
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3155245130928697
+The probability that Reset will come next is: 0.3843809410693115
+The probability that print will come next is: 0.3000945458378188
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3155087188271186
+The probability that Reset will come next is: 0.3843825646921694
+The probability that print will come next is: 0.30010871648071197
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31549310179355405
+The probability that Reset will come next is: 0.38438417009587694
+The probability that print will come next is: 0.3001227281105689
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31547765902568364
+The probability that Reset will come next is: 0.384385757585365
+The probability that print will come next is: 0.30013658338895144
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3154623876228001
+The probability that Reset will come next is: 0.3843873274588379
+The probability that print will come next is: 0.300150284918362
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31544728474825673
+The probability that Reset will come next is: 0.3843888800078927
+The probability that print will come next is: 0.3001638352438506
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3154323476276559
+The probability that Reset will come next is: 0.38439041551773007
+The probability that print will come next is: 0.300177236854614
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31541757354715366
+The probability that Reset will come next is: 0.3843919342673405
+The probability that print will come next is: 0.30019049218550586
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31540295985186834
+The probability that Reset will come next is: 0.3843934365296185
+The probability that print will come next is: 0.30020360361851317
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3153885039441981
+The probability that Reset will come next is: 0.3843949225716125
+The probability that print will come next is: 0.3002165734841895
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31537420328237126
+The probability that Reset will come next is: 0.3843963926546042
+The probability that print will come next is: 0.3002294040630247
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31536005537890344
+The probability that Reset will come next is: 0.38439784703430174
+The probability that print will come next is: 0.3002420975867948
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.315346057799157
+The probability that Reset will come next is: 0.3843992859609949
+The probability that print will come next is: 0.3002546562398482
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3153322081600009
+The probability that Reset will come next is: 0.38440070967964063
+The probability that print will come next is: 0.30026708216035847
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31531850412836054
+The probability that Reset will come next is: 0.3844021184300947
+The probability that print will come next is: 0.30027937744154465
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.31530494341999915
+The probability that Reset will come next is: 0.38440351244716603
+The probability that print will come next is: 0.30029154413283493
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3152915237981979
+The probability that Reset will come next is: 0.3844048919607834
+The probability that print will come next is: 0.3003035842410186
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3152782430725254
+The probability that Reset will come next is: 0.38440625719613275
+The probability that print will come next is: 0.3003154997313419
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: Reset
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan
+The predict value coming after value: print
+The probability that Set will come next is: 0.3152650990977015
+The probability that Reset will come next is: 0.3844076083737209
+The probability that print will come next is: 0.3003272925285776
+The predict value coming after value: Set
+The probability that Set will come next is: nan
+The probability that Reset will come next is: nan
+The probability that print will come next is: nan

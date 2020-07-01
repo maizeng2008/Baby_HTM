@@ -1,0 +1,1796 @@
+First time meet this value: Set
+First time meet this value: print
+The predict value coming after value: Set
+The probability that Set will come next is: 0.10713527288171573
+The probability that print will come next is: 0.8928647271182844
+The predict value coming after value: print
+The probability that Set will come next is: 0.8453852221930187
+The probability that print will come next is: 0.15461477780698135
+The predict value coming after value: Set
+The probability that Set will come next is: 0.14982754269371082
+The probability that print will come next is: 0.8501724573062891
+The predict value coming after value: print
+The probability that Set will come next is: 0.8441912162297467
+The probability that print will come next is: 0.15580878377025326
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15159574468086104
+The probability that print will come next is: 0.848404255319139
+The predict value coming after value: print
+The probability that Set will come next is: 0.8433305188427141
+The probability that print will come next is: 0.15666948115728585
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15291460124238107
+The probability that print will come next is: 0.8470853987576189
+The predict value coming after value: print
+The probability that Set will come next is: 0.8426806586726641
+The probability that print will come next is: 0.157319341327336
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15393608729539848
+The probability that print will come next is: 0.8460639127046016
+The predict value coming after value: print
+The probability that Set will come next is: 0.8421726186467077
+The probability that print will come next is: 0.15782738135329247
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15475058788212237
+The probability that print will come next is: 0.8452494121178777
+The predict value coming after value: print
+The probability that Set will come next is: 0.8417645415568465
+The probability that print will come next is: 0.15823545844315343
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15541522805741795
+The probability that print will come next is: 0.8445847719425821
+The predict value coming after value: print
+The probability that Set will come next is: 0.8414295666404954
+The probability that print will come next is: 0.1585704333595046
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1559678828472901
+The probability that print will come next is: 0.8440321171527099
+The predict value coming after value: print
+The probability that Set will come next is: 0.841149665594275
+The probability that print will come next is: 0.15885033440572505
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15643465582072158
+The probability that print will come next is: 0.8435653441792784
+The predict value coming after value: print
+The probability that Set will come next is: 0.8409122879408694
+The probability that print will come next is: 0.1590877120591306
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15683412254780946
+The probability that print will come next is: 0.8431658774521906
+The predict value coming after value: print
+The probability that Set will come next is: 0.8407084273923053
+The probability that print will come next is: 0.15929157260769464
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15717986184909621
+The probability that print will come next is: 0.8428201381509037
+The predict value coming after value: print
+The probability that Set will come next is: 0.8405314532739456
+The probability that print will come next is: 0.15946854672605443
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1574820300588001
+The probability that print will come next is: 0.8425179699411999
+The predict value coming after value: print
+The probability that Set will come next is: 0.8403763757036055
+The probability that print will come next is: 0.15962362429639448
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15774837538786576
+The probability that print will come next is: 0.8422516246121342
+The predict value coming after value: print
+The probability that Set will come next is: 0.8402393676321568
+The probability that print will come next is: 0.15976063236784324
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15798491170861878
+The probability that print will come next is: 0.8420150882913812
+The predict value coming after value: print
+The probability that Set will come next is: 0.8401174447608599
+The probability that print will come next is: 0.15988255523914008
+The predict value coming after value: Set
+The probability that Set will come next is: 0.158196378101134
+The probability that print will come next is: 0.8418036218988659
+The predict value coming after value: print
+The probability that Set will come next is: 0.8400082456694126
+The probability that print will come next is: 0.15999175433058746
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15838655963416706
+The probability that print will come next is: 0.8416134403658329
+The predict value coming after value: print
+The probability that Set will come next is: 0.839909877367083
+The probability that print will come next is: 0.16009012263291697
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15855851592445855
+The probability that print will come next is: 0.8414414840755415
+The predict value coming after value: print
+The probability that Set will come next is: 0.839820804629215
+The probability that print will come next is: 0.16017919537078498
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15871474699121157
+The probability that print will come next is: 0.8412852530087885
+The predict value coming after value: print
+The probability that Set will come next is: 0.8397397692903382
+The probability that print will come next is: 0.16026023070966175
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1588573155985544
+The probability that print will come next is: 0.8411426844014456
+The predict value coming after value: print
+The probability that Set will come next is: 0.8396657304418806
+The probability that print will come next is: 0.16033426955811936
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15898793884603166
+The probability that print will come next is: 0.8410120611539682
+The predict value coming after value: print
+The probability that Set will come next is: 0.8395978194785662
+The probability that print will come next is: 0.1604021805214338
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15910805766252395
+The probability that print will come next is: 0.8408919423374761
+The predict value coming after value: print
+The probability that Set will come next is: 0.8395353058631198
+The probability that print will come next is: 0.16046469413688036
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15921889018266644
+The probability that print will come next is: 0.8407811098173334
+The predict value coming after value: print
+The probability that Set will come next is: 0.8394775707416978
+The probability that print will come next is: 0.16052242925830223
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15932147320443027
+The probability that print will come next is: 0.8406785267955696
+The predict value coming after value: print
+The probability that Set will come next is: 0.8394240863870557
+The probability that print will come next is: 0.1605759136129444
+The predict value coming after value: print
+The probability that Set will come next is: 0.7434591303441166
+The probability that print will come next is: 0.25654086965588335
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1591924686931575
+The probability that print will come next is: 0.8408075313068425
+The predict value coming after value: print
+The probability that Set will come next is: 0.7464347731501934
+The probability that print will come next is: 0.25356522684980665
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15928856451008933
+The probability that print will come next is: 0.8407114354899108
+The predict value coming after value: print
+The probability that Set will come next is: 0.7492288629353135
+The probability that print will come next is: 0.2507711370646864
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15937824517447785
+The probability that print will come next is: 0.840621754825522
+The predict value coming after value: print
+The probability that Set will come next is: 0.7518575234725762
+The probability that print will come next is: 0.24814247652742386
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15946213232947115
+The probability that print will come next is: 0.8405378676705288
+The predict value coming after value: print
+The probability that Set will come next is: 0.7543350241554491
+The probability that print will come next is: 0.2456649758445509
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15954076981317716
+The probability that print will come next is: 0.8404592301868229
+The predict value coming after value: print
+The probability that Set will come next is: 0.7566740391350554
+The probability that print will come next is: 0.24332596086494473
+The predict value coming after value: Set
+The probability that Set will come next is: 0.159614635461939
+The probability that print will come next is: 0.840385364538061
+The predict value coming after value: print
+The probability that Set will come next is: 0.7588858641836629
+The probability that print will come next is: 0.24111413581633714
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15968415082816503
+The probability that print will come next is: 0.840315849171835
+The predict value coming after value: print
+The probability that Set will come next is: 0.7609805991170264
+The probability that print will come next is: 0.23901940088297363
+The predict value coming after value: Set
+The probability that Set will come next is: 0.159749689230423
+The probability that print will come next is: 0.8402503107695769
+The predict value coming after value: print
+The probability that Set will come next is: 0.7629673019925622
+The probability that print will come next is: 0.23703269800743762
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15981158246013394
+The probability that print will come next is: 0.8401884175398662
+The predict value coming after value: print
+The probability that Set will come next is: 0.7648541200495331
+The probability that print will come next is: 0.23514587995046696
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1598701263996037
+The probability that print will come next is: 0.8401298736003964
+The predict value coming after value: print
+The probability that Set will come next is: 0.7666484013841283
+The probability that print will come next is: 0.23335159861587174
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15992558575202373
+The probability that print will come next is: 0.8400744142479762
+The predict value coming after value: print
+The probability that Set will come next is: 0.7683567905867759
+The probability that print will come next is: 0.2316432094132241
+The predict value coming after value: print
+The probability that Set will come next is: 0.7538555857916742
+The probability that print will come next is: 0.24614441420832583
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15981636989073597
+The probability that print will come next is: 0.840183630109264
+The predict value coming after value: print
+The probability that Set will come next is: 0.7557820495793729
+The probability that print will come next is: 0.2442179504206272
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15987027880192908
+The probability that print will come next is: 0.840129721198071
+The predict value coming after value: print
+The probability that Set will come next is: 0.7576223007372955
+The probability that print will come next is: 0.2423776992627045
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1599215610788976
+The probability that print will come next is: 0.8400784389211023
+The predict value coming after value: print
+The probability that Set will come next is: 0.7593819998540876
+The probability that print will come next is: 0.24061800014591236
+The predict value coming after value: Set
+The probability that Set will come next is: 0.15997040412461644
+The probability that print will come next is: 0.8400295958753835
+The predict value coming after value: print
+The probability that Set will come next is: 0.7610663225779
+The probability that print will come next is: 0.23893367742210012
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16001697792870467
+The probability that print will come next is: 0.8399830220712954
+The predict value coming after value: print
+The probability that Set will come next is: 0.7626800104582823
+The probability that print will come next is: 0.23731998954171782
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1600614370438445
+The probability that print will come next is: 0.8399385629561555
+The predict value coming after value: print
+The probability that Set will come next is: 0.7642274155229114
+The probability that print will come next is: 0.2357725844770886
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16010392229944578
+The probability that print will come next is: 0.8398960777005542
+The predict value coming after value: print
+The probability that Set will come next is: 0.7657125394723421
+The probability that print will come next is: 0.2342874605276579
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16014456229155388
+The probability that print will come next is: 0.8398554377084461
+The predict value coming after value: print
+The probability that Set will come next is: 0.7671390682347828
+The probability that print will come next is: 0.2328609317652172
+The predict value coming after value: Set
+The probability that Set will come next is: 0.160183474682998
+The probability that print will come next is: 0.839816525317002
+The predict value coming after value: print
+The probability that Set will come next is: 0.7685104025106242
+The probability that print will come next is: 0.23148959748937573
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1602207673412464
+The probability that print will come next is: 0.8397792326587535
+The predict value coming after value: print
+The probability that Set will come next is: 0.7698296848384653
+The probability that print will come next is: 0.23017031516153483
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16025653933669717
+The probability that print will come next is: 0.8397434606633027
+The predict value coming after value: print
+The probability that Set will come next is: 0.7710998236363743
+The probability that print will come next is: 0.2289001763636257
+The predict value coming after value: print
+The probability that Set will come next is: 0.7597161959586393
+The probability that print will come next is: 0.24028380404136074
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16016429127227372
+The probability that print will come next is: 0.8398357087277263
+The predict value coming after value: print
+The probability that Set will come next is: 0.7611245689722452
+The probability that print will come next is: 0.23887543102775474
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16019970642769307
+The probability that print will come next is: 0.839800293572307
+The predict value coming after value: print
+The probability that Set will come next is: 0.762483178000218
+The probability that print will come next is: 0.23751682199978186
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16023376303549725
+The probability that print will come next is: 0.8397662369645028
+The predict value coming after value: print
+The probability that Set will come next is: 0.7637946148224232
+The probability that print will come next is: 0.23620538517757675
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16026653779671035
+The probability that print will come next is: 0.8397334622032896
+The predict value coming after value: print
+The probability that Set will come next is: 0.7650612943117358
+The probability that print will come next is: 0.23493870568826422
+The predict value coming after value: Set
+The probability that Set will come next is: 0.160298101744998
+The probability that print will come next is: 0.8397018982550021
+The predict value coming after value: print
+The probability that Set will come next is: 0.7662854692746278
+The probability that print will come next is: 0.23371453072537218
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16032852076093698
+The probability that print will come next is: 0.839671479239063
+The predict value coming after value: print
+The probability that Set will come next is: 0.767469243822814
+The probability that print will come next is: 0.23253075617718597
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16035785603068983
+The probability that print will come next is: 0.8396421439693101
+The predict value coming after value: print
+The probability that Set will come next is: 0.7686145854418205
+The probability that print will come next is: 0.2313854145581796
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16038616445695503
+The probability that print will come next is: 0.839613835543045
+The predict value coming after value: print
+The probability that Set will come next is: 0.7697233359036154
+The probability that print will come next is: 0.23027666409638464
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1604134990274259
+The probability that print will come next is: 0.839586500972574
+The predict value coming after value: print
+The probability that Set will come next is: 0.7707972211492538
+The probability that print will come next is: 0.22920277885074627
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1604399091455562
+The probability that print will come next is: 0.8395600908544437
+The predict value coming after value: print
+The probability that Set will come next is: 0.7718378602537362
+The probability that print will come next is: 0.22816213974626384
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16046544092891216
+The probability that print will come next is: 0.8395345590710879
+The predict value coming after value: print
+The probability that Set will come next is: 0.772846773571327
+The probability that print will come next is: 0.22715322642867297
+The predict value coming after value: print
+The probability that Set will come next is: 0.7634777831193006
+The probability that print will come next is: 0.23652221688069944
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16038618509139319
+The probability that print will come next is: 0.8396138149086069
+The predict value coming after value: print
+The probability that Set will come next is: 0.764581965669268
+The probability that print will come next is: 0.2354180343307321
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1604117231582265
+The probability that print will come next is: 0.8395882768417735
+The predict value coming after value: print
+The probability that Set will come next is: 0.7656539155285699
+The probability that print will come next is: 0.2343460844714301
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1604364533866658
+The probability that print will come next is: 0.8395635466133342
+The predict value coming after value: print
+The probability that Set will come next is: 0.766695023772021
+The probability that print will come next is: 0.23330497622797902
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16046041351098814
+The probability that print will come next is: 0.8395395864890118
+The predict value coming after value: print
+The probability that Set will come next is: 0.7677066025628553
+The probability that print will come next is: 0.23229339743714475
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16048363895156
+The probability that print will come next is: 0.83951636104844
+The predict value coming after value: print
+The probability that Set will come next is: 0.7686898906703027
+The probability that print will come next is: 0.23131010932969737
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16050616298926476
+The probability that print will come next is: 0.8394938370107352
+The predict value coming after value: print
+The probability that Set will come next is: 0.7696460585299928
+The probability that print will come next is: 0.2303539414700071
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1605280169247423
+The probability that print will come next is: 0.8394719830752576
+The predict value coming after value: print
+The probability that Set will come next is: 0.7705762128919299
+The probability that print will come next is: 0.22942378710807015
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1605492302235939
+The probability that print will come next is: 0.8394507697764062
+The predict value coming after value: print
+The probability that Set will come next is: 0.7714814010938503
+The probability that print will come next is: 0.22851859890614976
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1605698306487162
+The probability that print will come next is: 0.8394301693512839
+The predict value coming after value: print
+The probability that Set will come next is: 0.7723626149950006
+The probability that print will come next is: 0.2276373850049995
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1605898443817812
+The probability that print will come next is: 0.8394101556182189
+The predict value coming after value: print
+The probability that Set will come next is: 0.7732207946017701
+The probability that print will come next is: 0.22677920539822993
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16060929613401712
+The probability that print will come next is: 0.8393907038659828
+The predict value coming after value: print
+The probability that Set will come next is: 0.7740568314122503
+The probability that print will come next is: 0.22594316858774974
+The predict value coming after value: print
+The probability that Set will come next is: 0.7660967481428339
+The probability that print will come next is: 0.23390325185716612
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16054002745207419
+The probability that print will come next is: 0.8394599725479258
+The predict value coming after value: print
+The probability that Set will come next is: 0.7670023642352253
+The probability that print will come next is: 0.23299763576477478
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16055960447791812
+The probability that print will come next is: 0.8394403955220818
+The predict value coming after value: print
+The probability that Set will come next is: 0.7678854593767521
+The probability that print will come next is: 0.23211454062324788
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16057865463460544
+The probability that print will come next is: 0.8394213453653945
+The predict value coming after value: print
+The probability that Set will come next is: 0.7687468633298974
+The probability that print will come next is: 0.23125313667010255
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16059719890893875
+The probability that print will come next is: 0.8394028010910612
+The predict value coming after value: print
+The probability that Set will come next is: 0.7695873655894191
+The probability that print will come next is: 0.2304126344105809
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1606152571876116
+The probability that print will come next is: 0.8393847428123885
+The predict value coming after value: print
+The probability that Set will come next is: 0.7704077177955474
+The probability that print will come next is: 0.22959228220445252
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16063284832845684
+The probability that print will come next is: 0.8393671516715432
+The predict value coming after value: print
+The probability that Set will come next is: 0.7712086359761126
+The probability that print will come next is: 0.2287913640238874
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16064999022618637
+The probability that print will come next is: 0.8393500097738137
+The predict value coming after value: print
+The probability that Set will come next is: 0.771990802630891
+The probability that print will come next is: 0.22800919736910882
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1606666998729715
+The probability that print will come next is: 0.8393333001270284
+The predict value coming after value: print
+The probability that Set will come next is: 0.7727548686712474
+The probability that print will come next is: 0.2272451313287526
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1606829934147831
+The probability that print will come next is: 0.839317006585217
+The predict value coming after value: print
+The probability that Set will come next is: 0.7735014552269182
+The probability that print will come next is: 0.2264985447730819
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16069888620326547
+The probability that print will come next is: 0.8393011137967344
+The predict value coming after value: print
+The probability that Set will come next is: 0.7742311553298842
+The probability that print will come next is: 0.2257688446701158
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16071439284407493
+The probability that print will come next is: 0.839285607155925
+The predict value coming after value: print
+The probability that Set will come next is: 0.7749445354855503
+The probability that print will come next is: 0.22505546451444983
+The predict value coming after value: print
+The probability that Set will come next is: 0.7680250698015625
+The probability that print will come next is: 0.23197493019843757
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16065296165596962
+The probability that print will come next is: 0.8393470383440303
+The predict value coming after value: print
+The probability that Set will come next is: 0.768791471404411
+The probability that print will come next is: 0.23120852859558902
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16066862863259715
+The probability that print will come next is: 0.8393313713674028
+The predict value coming after value: print
+The probability that Set will come next is: 0.7695412726278541
+The probability that print will come next is: 0.23045872737214587
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1606839287159872
+The probability that print will come next is: 0.8393160712840129
+The predict value coming after value: print
+The probability that Set will come next is: 0.7702750070435064
+The probability that print will come next is: 0.22972499295649365
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1606988746449472
+The probability that print will come next is: 0.8393011253550527
+The predict value coming after value: print
+The probability that Set will come next is: 0.7709931855985358
+The probability that print will come next is: 0.2290068144014641
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16071347857530338
+The probability that print will come next is: 0.8392865214246965
+The predict value coming after value: print
+The probability that Set will come next is: 0.7716962978022875
+The probability that print will come next is: 0.22830370219771243
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16072775211292514
+The probability that print will come next is: 0.8392722478870749
+The predict value coming after value: print
+The probability that Set will come next is: 0.7723848128388789
+The probability that print will come next is: 0.22761518716112114
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16074170634437046
+The probability that print will come next is: 0.8392582936556295
+The predict value coming after value: print
+The probability that Set will come next is: 0.7730591806112866
+The probability that print will come next is: 0.22694081938871333
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16075535186571138
+The probability that print will come next is: 0.8392446481342887
+The predict value coming after value: print
+The probability that Set will come next is: 0.7737198327217258
+The probability that print will come next is: 0.22628016727827416
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16076869880925498
+The probability that print will come next is: 0.839231301190745
+The predict value coming after value: print
+The probability that Set will come next is: 0.7743671833928395
+The probability that print will come next is: 0.22563281660716045
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1607817568686996
+The probability that print will come next is: 0.8392182431313003
+The predict value coming after value: print
+The probability that Set will come next is: 0.775001630333792
+The probability that print will come next is: 0.22499836966620793
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1607945353226631
+The probability that print will come next is: 0.8392054646773369
+The predict value coming after value: print
+The probability that Set will come next is: 0.7756235555550068
+The probability that print will come next is: 0.22437644444499316
+The predict value coming after value: print
+The probability that Set will come next is: 0.7695041155666857
+The probability that print will come next is: 0.23049588443331426
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1607393896951487
+The probability that print will come next is: 0.8392606103048513
+The predict value coming after value: print
+The probability that Set will come next is: 0.7701677753238318
+The probability that print will come next is: 0.22983222467616818
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16075233229216412
+The probability that print will come next is: 0.8392476677078359
+The predict value coming after value: print
+The probability that Set will come next is: 0.7708187025770993
+The probability that print will come next is: 0.2291812974229007
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16076500662754253
+The probability that print will come next is: 0.8392349933724574
+The predict value coming after value: print
+The probability that Set will come next is: 0.771457260260138
+The probability that print will come next is: 0.22854273973986194
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16077742095612987
+The probability that print will come next is: 0.8392225790438701
+The predict value coming after value: print
+The probability that Set will come next is: 0.772083797642772
+The probability that print will come next is: 0.22791620235722793
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16078958319753595
+The probability that print will come next is: 0.839210416802464
+The predict value coming after value: print
+The probability that Set will come next is: 0.7726986509680368
+The probability that print will come next is: 0.2273013490319633
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16080150095297413
+The probability that print will come next is: 0.8391984990470259
+The predict value coming after value: print
+The probability that Set will come next is: 0.7733021440538639
+The probability that print will come next is: 0.22669785594613612
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16081318152110483
+The probability that print will come next is: 0.8391868184788951
+The predict value coming after value: print
+The probability that Set will come next is: 0.7738945888617486
+The probability that print will come next is: 0.22610541113825147
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1608246319128951
+The probability that print will come next is: 0.8391753680871049
+The predict value coming after value: print
+The probability that Set will come next is: 0.7744762860345401
+The probability that print will come next is: 0.22552371396545992
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16083585886570947
+The probability that print will come next is: 0.8391641411342905
+The predict value coming after value: print
+The probability that Set will come next is: 0.7750475254051189
+The probability that print will come next is: 0.22495247459488119
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16084686885652005
+The probability that print will come next is: 0.8391531311434799
+The predict value coming after value: print
+The probability that Set will come next is: 0.7756085864779347
+The probability that print will come next is: 0.22439141352206518
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16085766811437555
+The probability that print will come next is: 0.8391423318856245
+The predict value coming after value: print
+The probability that Set will come next is: 0.7761597388850031
+The probability that print will come next is: 0.223840261114997
+The predict value coming after value: print
+The probability that Set will come next is: 0.7706745166149859
+The probability that print will come next is: 0.22932548338501413
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1608076631649823
+The probability that print will come next is: 0.8391923368350177
+The predict value coming after value: print
+The probability that Set will come next is: 0.7712593685307431
+The probability that print will come next is: 0.22874063146925697
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16081861861584687
+The probability that print will come next is: 0.8391813813841531
+The predict value coming after value: print
+The probability that Set will come next is: 0.7718341504787462
+The probability that print will come next is: 0.22816584952125385
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16082937039826076
+The probability that print will come next is: 0.8391706296017394
+The predict value coming after value: print
+The probability that Set will come next is: 0.7723991203158531
+The probability that print will come next is: 0.227600879684147
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16083992413939763
+The probability that print will come next is: 0.8391600758606024
+The predict value coming after value: print
+The probability that Set will come next is: 0.7729545271696792
+The probability that print will come next is: 0.22704547283032084
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16085028526105116
+The probability that print will come next is: 0.839149714738949
+The predict value coming after value: print
+The probability that Set will come next is: 0.7735006118048766
+The probability that print will come next is: 0.22649938819512336
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1608604589888646
+The probability that print will come next is: 0.8391395410111353
+The predict value coming after value: print
+The probability that Set will come next is: 0.7740376069710881
+The probability that print will come next is: 0.2259623930289118
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16087045036114955
+The probability that print will come next is: 0.8391295496388504
+The predict value coming after value: print
+The probability that Set will come next is: 0.7745657377338072
+The probability that print will come next is: 0.22543426226619287
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16088026423719132
+The probability that print will come next is: 0.8391197357628086
+The predict value coming after value: print
+The probability that Set will come next is: 0.7750852217888601
+The probability that print will come next is: 0.22491477821114
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1608899053051628
+The probability that print will come next is: 0.8391100946948371
+The predict value coming after value: print
+The probability that Set will come next is: 0.7755962697616052
+The probability that print will come next is: 0.22440373023839477
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16089937808960922
+The probability that print will come next is: 0.8391006219103908
+The predict value coming after value: print
+The probability that Set will come next is: 0.7760990854916598
+The probability that print will come next is: 0.22390091450834015
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1609086869584513
+The probability that print will come next is: 0.8390913130415486
+The predict value coming after value: print
+The probability that Set will come next is: 0.7765938663039293
+The probability that print will come next is: 0.22340613369607062
+The predict value coming after value: print
+The probability that Set will come next is: 0.7716237561903134
+The probability that print will come next is: 0.22837624380968657
+The predict value coming after value: Set
+The probability that Set will come next is: 0.160862958557853
+The probability that print will come next is: 0.8391370414421471
+The predict value coming after value: print
+The probability that Set will come next is: 0.7721463152546123
+The probability that print will come next is: 0.22785368474538772
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16087241168028887
+The probability that print will come next is: 0.8391275883197111
+The predict value coming after value: print
+The probability that Set will come next is: 0.7726607137176504
+The probability that print will come next is: 0.2273392862823495
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16088170548505895
+The probability that print will come next is: 0.8391182945149411
+The predict value coming after value: print
+The probability that Set will come next is: 0.7731671412597525
+The probability that print will come next is: 0.2268328587402475
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1608908439661171
+The probability that print will come next is: 0.8391091560338829
+The predict value coming after value: print
+The probability that Set will come next is: 0.7736657817280203
+The probability that print will come next is: 0.22633421827197978
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16089983098499108
+The probability that print will come next is: 0.839100169015009
+The predict value coming after value: print
+The probability that Set will come next is: 0.7741568133587708
+The probability that print will come next is: 0.22584318664122913
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16090867027624886
+The probability that print will come next is: 0.8390913297237512
+The predict value coming after value: print
+The probability that Set will come next is: 0.7746404089900952
+The probability that print will come next is: 0.22535959100990474
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16091736545267574
+The probability that print will come next is: 0.8390826345473243
+The predict value coming after value: print
+The probability that Set will come next is: 0.7751167362646455
+The probability that print will come next is: 0.2248832637353545
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16092592001021366
+The probability that print will come next is: 0.8390740799897863
+The predict value coming after value: print
+The probability that Set will come next is: 0.7755859578233734
+The probability that print will come next is: 0.22441404217662672
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16093433733268278
+The probability that print will come next is: 0.8390656626673172
+The predict value coming after value: print
+The probability that Set will come next is: 0.7760482314907078
+The probability that print will come next is: 0.22395176850929224
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1609426206961569
+The probability that print will come next is: 0.8390573793038432
+The predict value coming after value: print
+The probability that Set will come next is: 0.776503710451445
+The probability that print will come next is: 0.22349628954855502
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16095077327325494
+The probability that print will come next is: 0.8390492267267451
+The predict value coming after value: print
+The probability that Set will come next is: 0.7769525434201434
+The probability that print will come next is: 0.22304745657985656
+The predict value coming after value: print
+The probability that Set will come next is: 0.7724091095767281
+The probability that print will come next is: 0.22759089042327182
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16090865518415481
+The probability that print will come next is: 0.8390913448158451
+The predict value coming after value: print
+The probability that Set will come next is: 0.7728812324725826
+The probability that print will come next is: 0.2271187675274173
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16091693929130496
+The probability that print will come next is: 0.8390830607086951
+The predict value coming after value: print
+The probability that Set will come next is: 0.773346609786051
+The probability that print will come next is: 0.22665339021394898
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16092509571398256
+The probability that print will come next is: 0.8390749042860175
+The predict value coming after value: print
+The probability that Set will come next is: 0.7738053850606688
+The probability that print will come next is: 0.22619461493933118
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16093312738162965
+The probability that print will come next is: 0.8390668726183704
+The predict value coming after value: print
+The probability that Set will come next is: 0.774257697795827
+The probability that print will come next is: 0.22574230220417293
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16094103713477106
+The probability that print will come next is: 0.8390589628652289
+The predict value coming after value: print
+The probability that Set will come next is: 0.7747036835883891
+The probability that print will come next is: 0.2252963164116109
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16094882772833843
+The probability that print will come next is: 0.8390511722716616
+The predict value coming after value: print
+The probability that Set will come next is: 0.7751434742680868
+The probability that print will come next is: 0.22485652573191314
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1609565018348707
+The probability that print will come next is: 0.8390434981651294
+The predict value coming after value: print
+The probability that Set will come next is: 0.7755771980274699
+The probability that print will come next is: 0.2244228019725301
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16096406204765404
+The probability that print will come next is: 0.839035937952346
+The predict value coming after value: print
+The probability that Set will come next is: 0.7760049795464995
+The probability that print will come next is: 0.22399502045350053
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16097151088348116
+The probability that print will come next is: 0.8390284891165187
+The predict value coming after value: print
+The probability that Set will come next is: 0.7764269401119104
+The probability that print will come next is: 0.22357305988808962
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1609788507855645
+The probability that print will come next is: 0.8390211492144356
+The predict value coming after value: print
+The probability that Set will come next is: 0.7768431977320936
+The probability that print will come next is: 0.22315680226790632
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16098608412616605
+The probability that print will come next is: 0.839013915873834
+The predict value coming after value: print
+The probability that Set will come next is: 0.7772538672469581
+The probability that print will come next is: 0.2227461327530419
+The predict value coming after value: print
+The probability that Set will come next is: 0.7730696465002878
+The probability that print will come next is: 0.22693035349971225
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16094705281913155
+The probability that print will come next is: 0.8390529471808683
+The predict value coming after value: print
+The probability that Set will come next is: 0.7735001231368767
+The probability that print will come next is: 0.2264998768631234
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16095440549167567
+The probability that print will come next is: 0.8390455945083243
+The predict value coming after value: print
+The probability that Set will come next is: 0.7739249315420489
+The probability that print will come next is: 0.22607506845795108
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16096165375836471
+The probability that print will come next is: 0.8390383462416354
+The predict value coming after value: print
+The probability that Set will come next is: 0.7743441829367711
+The probability that print will come next is: 0.2256558170632288
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16096879982732978
+The probability that print will come next is: 0.8390312001726702
+The predict value coming after value: print
+The probability that Set will come next is: 0.7747579856512173
+The probability that print will come next is: 0.2252420143487828
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16097584584485355
+The probability that print will come next is: 0.8390241541551464
+The predict value coming after value: print
+The probability that Set will come next is: 0.7751664452179373
+The probability that print will come next is: 0.22483355478206274
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16098279389752188
+The probability that print will come next is: 0.8390172061024781
+The predict value coming after value: print
+The probability that Set will come next is: 0.7755696644616197
+The probability that print will come next is: 0.22443033553838027
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16098964601437632
+The probability that print will come next is: 0.8390103539856236
+The predict value coming after value: print
+The probability that Set will come next is: 0.7759677435854409
+The probability that print will come next is: 0.22403225641455915
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16099640416872407
+The probability that print will come next is: 0.8390035958312759
+The predict value coming after value: print
+The probability that Set will come next is: 0.776360780253922
+The probability that print will come next is: 0.223639219746078
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16100307028016353
+The probability that print will come next is: 0.8389969297198364
+The predict value coming after value: print
+The probability that Set will come next is: 0.776748869673049
+The probability that print will come next is: 0.22325113032695104
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1610096462163433
+The probability that print will come next is: 0.8389903537836566
+The predict value coming after value: print
+The probability that Set will come next is: 0.7771321046669879
+The probability that print will come next is: 0.2228678953330121
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16101613379469884
+The probability that print will come next is: 0.8389838662053012
+The predict value coming after value: print
+The probability that Set will come next is: 0.7775105757521443
+The probability that print will come next is: 0.22248942424785564
+The predict value coming after value: print
+The probability that Set will come next is: 0.7736329321675388
+The probability that print will come next is: 0.22636706783246116
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1609797708993392
+The probability that print will come next is: 0.8390202291006608
+The predict value coming after value: print
+The probability that Set will come next is: 0.7740284538449859
+The probability that print will come next is: 0.22597154615501425
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16098636662555138
+The probability that print will come next is: 0.8390136333744487
+The predict value coming after value: print
+The probability that Set will come next is: 0.7744191462597497
+The probability that print will come next is: 0.2255808537402504
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16099287552978575
+The probability that print will come next is: 0.8390071244702143
+The predict value coming after value: print
+The probability that Set will come next is: 0.774805097322112
+The probability that print will come next is: 0.22519490267788803
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1609992993151513
+The probability that print will come next is: 0.8390007006848488
+The predict value coming after value: print
+The probability that Set will come next is: 0.7751863928214299
+The probability that print will come next is: 0.22481360717857024
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16100563964043713
+The probability that print will come next is: 0.838994360359563
+The predict value coming after value: print
+The probability that Set will come next is: 0.7755631164897702
+The probability that print will come next is: 0.2244368835102298
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16101189812173167
+The probability that print will come next is: 0.8389881018782682
+The predict value coming after value: print
+The probability that Set will come next is: 0.7759353500633256
+The probability that print will come next is: 0.22406464993667433
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16101807633355664
+The probability that print will come next is: 0.8389819236664433
+The predict value coming after value: print
+The probability that Set will come next is: 0.7763031733412672
+The probability that print will come next is: 0.22369682665873275
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16102417581034498
+The probability that print will come next is: 0.8389758241896551
+The predict value coming after value: print
+The probability that Set will come next is: 0.7766666642431204
+The probability that print will come next is: 0.22333333575687958
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16103019804767915
+The probability that print will come next is: 0.8389698019523208
+The predict value coming after value: print
+The probability that Set will come next is: 0.777025898863535
+The probability that print will come next is: 0.22297410113646499
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1610361445034323
+The probability that print will come next is: 0.8389638554965677
+The predict value coming after value: print
+The probability that Set will come next is: 0.7773809515254624
+The probability that print will come next is: 0.22261904847453767
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16104201659914788
+The probability that print will come next is: 0.838957983400852
+The predict value coming after value: print
+The probability that Set will come next is: 0.7777318948315408
+The probability that print will come next is: 0.22226810516845927
+The predict value coming after value: print
+The probability that Set will come next is: 0.7741189714564294
+The probability that print will come next is: 0.22588102854357062
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1610079827770724
+The probability that print will come next is: 0.8389920172229277
+The predict value coming after value: print
+The probability that Set will come next is: 0.7744847464309906
+The probability that print will come next is: 0.2255152535690093
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16101395297803983
+The probability that print will come next is: 0.8389860470219602
+The predict value coming after value: print
+The probability that Set will come next is: 0.7748463580876942
+The probability that print will come next is: 0.2251536419123059
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16101984993655244
+The probability that print will come next is: 0.8389801500634476
+The predict value coming after value: print
+The probability that Set will come next is: 0.7752038771057396
+The probability that print will come next is: 0.22479612289426049
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1610256749921579
+The probability that print will come next is: 0.8389743250078422
+The predict value coming after value: print
+The probability that Set will come next is: 0.7755573725734819
+The probability that print will come next is: 0.22444262742651816
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1610314294520587
+The probability that print will come next is: 0.8389685705479413
+The predict value coming after value: print
+The probability that Set will come next is: 0.7759069120330032
+The probability that print will come next is: 0.22409308796699678
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1610371145918211
+The probability that print will come next is: 0.8389628854081789
+The predict value coming after value: print
+The probability that Set will come next is: 0.7762525615228978
+The probability that print will come next is: 0.22374743847710224
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16104273165655128
+The probability that print will come next is: 0.8389572683434487
+The predict value coming after value: print
+The probability that Set will come next is: 0.7765943856201992
+The probability that print will come next is: 0.22340561437980072
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16104828186169187
+The probability that print will come next is: 0.838951718138308
+The predict value coming after value: print
+The probability that Set will come next is: 0.7769324474803148
+The probability that print will come next is: 0.2230675525196852
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16105376639387128
+The probability that print will come next is: 0.8389462336061287
+The predict value coming after value: print
+The probability that Set will come next is: 0.7772668088760549
+The probability that print will come next is: 0.22273319112394513
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16105918641193234
+The probability that print will come next is: 0.8389408135880677
+The predict value coming after value: print
+The probability that Set will come next is: 0.7775975302353297
+The probability that print will come next is: 0.2224024697646702
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1610645430474651
+The probability that print will come next is: 0.8389354569525349
+The predict value coming after value: print
+The probability that Set will come next is: 0.7779246706773092
+The probability that print will come next is: 0.22207532932269075
+The predict value coming after value: print
+The probability that Set will come next is: 0.7745426345659099
+The probability that print will come next is: 0.22545736543409017
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16103255942065295
+The probability that print will come next is: 0.8389674405793471
+The predict value coming after value: print
+The probability that Set will come next is: 0.7748827941788535
+The probability that print will come next is: 0.2251172058211465
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16103800523168535
+The probability that print will come next is: 0.8389619947683147
+The predict value coming after value: print
+The probability that Set will come next is: 0.7752193278267758
+The probability that print will come next is: 0.2247806721732243
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16104338848834024
+The probability that print will come next is: 0.8389566115116597
+The predict value coming after value: print
+The probability that Set will come next is: 0.7755522931792711
+The probability that print will come next is: 0.22444770682072887
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16104871026234982
+The probability that print will come next is: 0.8389512897376502
+The predict value coming after value: print
+The probability that Set will come next is: 0.7758817466895511
+The probability that print will come next is: 0.22411825331044888
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16105397160097912
+The probability that print will come next is: 0.8389460283990209
+The predict value coming after value: print
+The probability that Set will come next is: 0.7762077436260542
+The probability that print will come next is: 0.22379225637394587
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16105917352790733
+The probability that print will come next is: 0.8389408264720927
+The predict value coming after value: print
+The probability that Set will come next is: 0.7765303381036992
+The probability that print will come next is: 0.22346966189630094
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16106431704383375
+The probability that print will come next is: 0.8389356829561663
+The predict value coming after value: print
+The probability that Set will come next is: 0.7768495831135765
+The probability that print will come next is: 0.22315041688642348
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16106940312703022
+The probability that print will come next is: 0.8389305968729698
+The predict value coming after value: print
+The probability that Set will come next is: 0.7771655305520377
+The probability that print will come next is: 0.22283446944796226
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16107443273417596
+The probability that print will come next is: 0.8389255672658241
+The predict value coming after value: print
+The probability that Set will come next is: 0.7774782312489611
+The probability that print will come next is: 0.2225217687510389
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16107940680068925
+The probability that print will come next is: 0.8389205931993107
+The predict value coming after value: print
+The probability that Set will come next is: 0.7777877349947102
+The probability that print will come next is: 0.2222122650052898
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16108432624151503
+The probability that print will come next is: 0.838915673758485
+The predict value coming after value: print
+The probability that Set will come next is: 0.7780940905669101
+The probability that print will come next is: 0.22190590943308985
+The predict value coming after value: print
+The probability that Set will come next is: 0.7749152050858769
+The probability that print will come next is: 0.22508479491412317
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16105416092748562
+The probability that print will come next is: 0.8389458390725143
+The predict value coming after value: print
+The probability that Set will come next is: 0.7752330802661727
+The probability that print will come next is: 0.2247669197338274
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1610591616355371
+The probability that print will come next is: 0.838940838364463
+The predict value coming after value: print
+The probability that Set will come next is: 0.775547769293712
+The probability that print will come next is: 0.22445223070628786
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16106410834131815
+The probability that print will come next is: 0.8389358916586818
+The predict value coming after value: print
+The probability that Set will come next is: 0.7758593198332697
+The probability that print will come next is: 0.22414068016673028
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16106900191480378
+The probability that print will come next is: 0.8389309980851962
+The predict value coming after value: print
+The probability that Set will come next is: 0.7761677786033826
+The probability that print will come next is: 0.2238322213966174
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16107384320748885
+The probability that print will come next is: 0.8389261567925113
+The predict value coming after value: print
+The probability that Set will come next is: 0.7764731914001266
+The probability that print will come next is: 0.22352680859987334
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16107863305276457
+The probability that print will come next is: 0.8389213669472354
+The predict value coming after value: print
+The probability that Set will come next is: 0.7767756031194271
+The probability that print will come next is: 0.22322439688057302
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16108337226630345
+The probability that print will come next is: 0.8389166277336965
+The predict value coming after value: print
+The probability that Set will come next is: 0.7770750577792128
+The probability that print will come next is: 0.22292494222078724
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16108806164679618
+The probability that print will come next is: 0.8389119383532039
+The predict value coming after value: print
+The probability that Set will come next is: 0.7773715985408858
+The probability that print will come next is: 0.22262840145911417
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16109270197604708
+The probability that print will come next is: 0.8389072980239528
+The predict value coming after value: print
+The probability that Set will come next is: 0.7776652677297273
+The probability that print will come next is: 0.22233473227027262
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16109729401970407
+The probability that print will come next is: 0.8389027059802959
+The predict value coming after value: print
+The probability that Set will come next is: 0.7779561068554638
+The probability that print will come next is: 0.22204389314453624
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16110183852755575
+The probability that print will come next is: 0.8388981614724443
+The predict value coming after value: print
+The probability that Set will come next is: 0.7782441566314653
+The probability that print will come next is: 0.22175584336853477
+The predict value coming after value: print
+The probability that Set will come next is: 0.7752453998397971
+The probability that print will come next is: 0.2247546001602029
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1610732966993748
+The probability that print will come next is: 0.8389267033006251
+The predict value coming after value: print
+The probability that Set will come next is: 0.7755437145118097
+The probability that print will come next is: 0.22445628548819024
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16107791547715175
+The probability that print will come next is: 0.8389220845228482
+The predict value coming after value: print
+The probability that Set will come next is: 0.7758392075281674
+The probability that print will come next is: 0.22416079247183265
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16108248719470808
+The probability that print will come next is: 0.8389175128052919
+The predict value coming after value: print
+The probability that Set will come next is: 0.7761319187339418
+The probability that print will come next is: 0.22386808126605814
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16108701256767044
+The probability that print will come next is: 0.8389129874323296
+The predict value coming after value: print
+The probability that Set will come next is: 0.7764218872276705
+The probability that print will come next is: 0.22357811277232947
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1610914922972069
+The probability that print will come next is: 0.8389085077027931
+The predict value coming after value: print
+The probability that Set will come next is: 0.7767091513784922
+The probability that print will come next is: 0.22329084862150778
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16109592707033832
+The probability that print will come next is: 0.8389040729296617
+The predict value coming after value: print
+The probability that Set will come next is: 0.7769937488431878
+The probability that print will come next is: 0.2230062511568122
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16110031756051177
+The probability that print will come next is: 0.8388996824394882
+The predict value coming after value: print
+The probability that Set will come next is: 0.7772757165827278
+The probability that print will come next is: 0.22272428341727227
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16110466442763408
+The probability that print will come next is: 0.8388953355723658
+The predict value coming after value: print
+The probability that Set will come next is: 0.7775550908780102
+The probability that print will come next is: 0.22244490912198983
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611089683186728
+The probability that print will come next is: 0.8388910316813272
+The predict value coming after value: print
+The probability that Set will come next is: 0.7778319073457545
+The probability that print will come next is: 0.22216809265424556
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16111322986784263
+The probability that print will come next is: 0.8388867701321574
+The predict value coming after value: print
+The probability that Set will come next is: 0.7781062009533611
+The probability that print will come next is: 0.2218937990466388
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16111744969686406
+The probability that print will come next is: 0.838882550303136
+The predict value coming after value: print
+The probability that Set will come next is: 0.7783780060337561
+The probability that print will come next is: 0.22162199396624402
+The predict value coming after value: print
+The probability that Set will come next is: 0.775540059464679
+The probability that print will come next is: 0.22445994053532092
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1610903661243117
+The probability that print will come next is: 0.8389096338756883
+The predict value coming after value: print
+The probability that Set will come next is: 0.7758210690485009
+The probability that print will come next is: 0.22417893095149913
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16109465402634893
+The probability that print will come next is: 0.8389053459736511
+The predict value coming after value: print
+The probability that Set will come next is: 0.7760995624025472
+The probability that print will come next is: 0.22390043759745282
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16109890057554105
+The probability that print will come next is: 0.838901099424459
+The predict value coming after value: print
+The probability that Set will come next is: 0.7763755731726929
+The probability that print will come next is: 0.22362442682730715
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16110310636726166
+The probability that print will come next is: 0.8388968936327383
+The predict value coming after value: print
+The probability that Set will come next is: 0.7766491344074989
+The probability that print will come next is: 0.22335086559250109
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611072719854019
+The probability that print will come next is: 0.8388927280145981
+The predict value coming after value: print
+The probability that Set will come next is: 0.7769202785714902
+The probability that print will come next is: 0.2230797214285098
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16111139800292762
+The probability that print will come next is: 0.8388886019970724
+The predict value coming after value: print
+The probability that Set will come next is: 0.7771890375581895
+The probability that print will come next is: 0.22281096244181048
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611154849817889
+The probability that print will come next is: 0.838884515018211
+The predict value coming after value: print
+The probability that Set will come next is: 0.7774554427022378
+The probability that print will come next is: 0.22254455729776224
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16111953347345667
+The probability that print will come next is: 0.8388804665265434
+The predict value coming after value: print
+The probability that Set will come next is: 0.777719524792007
+The probability that print will come next is: 0.22228047520799304
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16112354401906567
+The probability that print will come next is: 0.8388764559809343
+The predict value coming after value: print
+The probability that Set will come next is: 0.7779813140811351
+The probability that print will come next is: 0.22201868591886487
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16112751714954393
+The probability that print will come next is: 0.8388724828504561
+The predict value coming after value: print
+The probability that Set will come next is: 0.7782408403001672
+The probability that print will come next is: 0.2217591596998328
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16113145338613707
+The probability that print will come next is: 0.838868546613863
+The predict value coming after value: print
+The probability that Set will come next is: 0.7784981326680029
+The probability that print will come next is: 0.22150186733199703
+The predict value coming after value: print
+The probability that Set will come next is: 0.7758046274180642
+The probability that print will come next is: 0.22419537258193578
+The predict value coming after value: Set
+The probability that Set will come next is: 0.161105686754023
+The probability that print will come next is: 0.8388943132459771
+The predict value coming after value: print
+The probability that Set will come next is: 0.7760702200753617
+The probability that print will come next is: 0.2239297799246383
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16110968556486244
+The probability that print will come next is: 0.8388903144351375
+The predict value coming after value: print
+The probability that Set will come next is: 0.7763335549518491
+The probability that print will come next is: 0.22366644504815086
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16111364776833165
+The probability that print will come next is: 0.8388863522316683
+The predict value coming after value: print
+The probability that Set will come next is: 0.7765946607154288
+The probability that print will come next is: 0.22340533928457115
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16111757386475908
+The probability that print will come next is: 0.8388824261352409
+The predict value coming after value: print
+The probability that Set will come next is: 0.776853565550734
+The probability that print will come next is: 0.22314643444926585
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16112146434556157
+The probability that print will come next is: 0.8388785356544385
+The predict value coming after value: print
+The probability that Set will come next is: 0.7771102971693451
+The probability that print will come next is: 0.2228897028306549
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16112531969309352
+The probability that print will come next is: 0.8388746803069065
+The predict value coming after value: print
+The probability that Set will come next is: 0.7773648828193841
+The probability that print will come next is: 0.2226351171806159
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16112914038116857
+The probability that print will come next is: 0.8388708596188313
+The predict value coming after value: print
+The probability that Set will come next is: 0.7776173492955548
+The probability that print will come next is: 0.2223826507044452
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16113292687509406
+The probability that print will come next is: 0.8388670731249059
+The predict value coming after value: print
+The probability that Set will come next is: 0.7778677229481757
+The probability that print will come next is: 0.2221322770518243
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16113667963179823
+The probability that print will come next is: 0.8388633203682018
+The predict value coming after value: print
+The probability that Set will come next is: 0.7781160296925351
+The probability that print will come next is: 0.22188397030746482
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611403991002721
+The probability that print will come next is: 0.8388596008997279
+The predict value coming after value: print
+The probability that Set will come next is: 0.7783622950179075
+The probability that print will come next is: 0.22163770498209243
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16114408572138697
+The probability that print will come next is: 0.8388559142786131
+The predict value coming after value: print
+The probability that Set will come next is: 0.7786065439959846
+The probability that print will come next is: 0.22139345600401544
+The predict value coming after value: print
+The probability that Set will come next is: 0.7760434893605443
+The probability that print will come next is: 0.2239565106394557
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611195142434819
+The probability that print will come next is: 0.8388804857565181
+The predict value coming after value: print
+The probability that Set will come next is: 0.7762952613691668
+The probability that print will come next is: 0.22370473863083312
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16112325854738896
+The probability that print will come next is: 0.838876741452611
+The predict value coming after value: print
+The probability that Set will come next is: 0.7765449962216009
+The probability that print will come next is: 0.22345500377839916
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16112697022954195
+The probability that print will come next is: 0.838873029770458
+The predict value coming after value: print
+The probability that Set will come next is: 0.7767927185429515
+The probability that print will come next is: 0.22320728145704855
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611306497144991
+The probability that print will come next is: 0.8388693502855008
+The predict value coming after value: print
+The probability that Set will come next is: 0.7770384525631705
+The probability that print will come next is: 0.2229615474368295
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16113429741931826
+The probability that print will come next is: 0.8388657025806817
+The predict value coming after value: print
+The probability that Set will come next is: 0.7772822221246211
+The probability that print will come next is: 0.22271777787537894
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16113791375399422
+The probability that print will come next is: 0.8388620862460058
+The predict value coming after value: print
+The probability that Set will come next is: 0.7775240506901568
+The probability that print will come next is: 0.2224759493098432
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16114149912149564
+The probability that print will come next is: 0.8388585008785043
+The predict value coming after value: print
+The probability that Set will come next is: 0.7777639613503632
+The probability that print will come next is: 0.2222360386496368
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16114505391782014
+The probability that print will come next is: 0.8388549460821799
+The predict value coming after value: print
+The probability that Set will come next is: 0.7780019768309919
+The probability that print will come next is: 0.22199802316900802
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16114857853240103
+The probability that print will come next is: 0.838851421467599
+The predict value coming after value: print
+The probability that Set will come next is: 0.7782381195003053
+The probability that print will come next is: 0.2217618804996948
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16115207334791887
+The probability that print will come next is: 0.8388479266520812
+The predict value coming after value: print
+The probability that Set will come next is: 0.7784724113757512
+The probability that print will come next is: 0.22152758862424882
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611555387407226
+The probability that print will come next is: 0.8388444612592774
+The predict value coming after value: print
+The probability that Set will come next is: 0.7787048741311731
+The probability that print will come next is: 0.22129512586882702
+The predict value coming after value: print
+The probability that Set will come next is: 0.776260218196264
+The probability that print will come next is: 0.22373978180373602
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16113205673114392
+The probability that print will come next is: 0.838867943268856
+The predict value coming after value: print
+The probability that Set will come next is: 0.7764995309817538
+The probability that print will come next is: 0.22350046901824613
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611355754429713
+The probability that print will come next is: 0.8388644245570287
+The predict value coming after value: print
+The probability that Set will come next is: 0.7767369964409953
+The probability that print will come next is: 0.2232630035590048
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16113906491119903
+The probability that print will come next is: 0.8388609350888009
+The predict value coming after value: print
+The probability that Set will come next is: 0.7769726358819339
+The probability that print will come next is: 0.22302736411806606
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16114252549878688
+The probability that print will come next is: 0.8388574745012132
+The predict value coming after value: print
+The probability that Set will come next is: 0.7772064702858589
+The probability that print will come next is: 0.22279352971414115
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16114595756284578
+The probability that print will come next is: 0.8388540424371542
+The predict value coming after value: print
+The probability that Set will come next is: 0.7774385203140615
+The probability that print will come next is: 0.2225614796859386
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16114936145461095
+The probability that print will come next is: 0.8388506385453891
+The predict value coming after value: print
+The probability that Set will come next is: 0.7776688063135475
+The probability that print will come next is: 0.2223311936864525
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611527375194648
+The probability that print will come next is: 0.8388472624805352
+The predict value coming after value: print
+The probability that Set will come next is: 0.7778973483231506
+The probability that print will come next is: 0.22210265167684934
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16115608609734788
+The probability that print will come next is: 0.8388439139026521
+The predict value coming after value: print
+The probability that Set will come next is: 0.7781241660794765
+The probability that print will come next is: 0.22187583392052346
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16115940752249394
+The probability that print will come next is: 0.8388405924775061
+The predict value coming after value: print
+The probability that Set will come next is: 0.7783492790222285
+The probability that print will come next is: 0.2216507209777715
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611627021238734
+The probability that print will come next is: 0.8388372978761266
+The predict value coming after value: print
+The probability that Set will come next is: 0.7785727063001934
+The probability that print will come next is: 0.2214272936998066
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16116597022515097
+The probability that print will come next is: 0.8388340297748491
+The predict value coming after value: print
+The probability that Set will come next is: 0.7787944667762992
+The probability that print will come next is: 0.22120553322370087
+The predict value coming after value: print
+The probability that Set will come next is: 0.7764577540126709
+The probability that print will come next is: 0.22354224598732908
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16114348538806078
+The probability that print will come next is: 0.8388565146119392
+The predict value coming after value: print
+The probability that Set will come next is: 0.7766857779340409
+The probability that print will come next is: 0.22331422206595916
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16114680290384842
+The probability that print will come next is: 0.8388531970961516
+The predict value coming after value: print
+The probability that Set will come next is: 0.7769121190351223
+The probability that print will come next is: 0.22308788096487775
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611500940625797
+The probability that print will come next is: 0.8388499059374203
+The predict value coming after value: print
+The probability that Set will come next is: 0.777136795876199
+The probability that print will come next is: 0.22286320412380103
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16115335917715726
+The probability that print will come next is: 0.8388466408228428
+The predict value coming after value: print
+The probability that Set will come next is: 0.7773598267457839
+The probability that print will come next is: 0.2226401732542161
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16115659855552855
+The probability that print will come next is: 0.8388434014444714
+The predict value coming after value: print
+The probability that Set will come next is: 0.7775812296652801
+The probability that print will come next is: 0.22241877033471982
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16115981250071504
+The probability that print will come next is: 0.8388401874992849
+The predict value coming after value: print
+The probability that Set will come next is: 0.7778010223939804
+The probability that print will come next is: 0.2221989776060196
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16116300131115913
+The probability that print will come next is: 0.8388369986888408
+The predict value coming after value: print
+The probability that Set will come next is: 0.7780192224339054
+The probability that print will come next is: 0.22198077756609463
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16116616528047958
+The probability that print will come next is: 0.8388338347195204
+The predict value coming after value: print
+The probability that Set will come next is: 0.7782358470341716
+The probability that print will come next is: 0.22176415296582824
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16116930469786492
+The probability that print will come next is: 0.838830695302135
+The predict value coming after value: print
+The probability that Set will come next is: 0.7784509131958802
+The probability that print will come next is: 0.22154908680411983
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16117241984800956
+The probability that print will come next is: 0.8388275801519904
+The predict value coming after value: print
+The probability that Set will come next is: 0.778664437676263
+The probability that print will come next is: 0.2213355623237369
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16117551101113603
+The probability that print will come next is: 0.838824488988864
+The predict value coming after value: print
+The probability that Set will come next is: 0.7788764369931855
+The probability that print will come next is: 0.22112356300681435
+The predict value coming after value: print
+The probability that Set will come next is: 0.7766385382418984
+The probability that print will come next is: 0.22336146175810148
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16115394227639082
+The probability that print will come next is: 0.8388460577236092
+The predict value coming after value: print
+The probability that Set will come next is: 0.776856286651597
+The probability that print will come next is: 0.223143713348403
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611570793497511
+The probability that print will come next is: 0.8388429206502489
+The predict value coming after value: print
+The probability that Set will come next is: 0.7770724957311471
+The probability that print will come next is: 0.22292750426885277
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611601925512188
+The probability that print will come next is: 0.8388398074487812
+The predict value coming after value: print
+The probability that Set will come next is: 0.7772871817461294
+The probability that print will come next is: 0.2227128182538707
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16116328215227385
+The probability that print will come next is: 0.8388367178477262
+The predict value coming after value: print
+The probability that Set will come next is: 0.7775003607336641
+The probability that print will come next is: 0.2224996392663358
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16116634842019406
+The probability that print will come next is: 0.8388336515798059
+The predict value coming after value: print
+The probability that Set will come next is: 0.7777120485064773
+The probability that print will come next is: 0.22228795149352262
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16116939161839308
+The probability that print will come next is: 0.8388306083816068
+The predict value coming after value: print
+The probability that Set will come next is: 0.7779222606569884
+The probability that print will come next is: 0.22207773934301164
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16117241200617408
+The probability that print will come next is: 0.838827587993826
+The predict value coming after value: print
+The probability that Set will come next is: 0.7781310125608026
+The probability that print will come next is: 0.22186898743919728
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611754098390782
+The probability that print will come next is: 0.8388245901609218
+The predict value coming after value: print
+The probability that Set will come next is: 0.7783383193808168
+The probability that print will come next is: 0.2216616806191833
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611783853688381
+The probability that print will come next is: 0.838821614631162
+The predict value coming after value: print
+The probability that Set will come next is: 0.7785441960706287
+The probability that print will come next is: 0.22145580392937134
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16118133884335928
+The probability that print will come next is: 0.8388186611566407
+The predict value coming after value: print
+The probability that Set will come next is: 0.7787486573781962
+The probability that print will come next is: 0.22125134262180382
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16118427050703
+The probability that print will come next is: 0.83881572949297
+The predict value coming after value: print
+The probability that Set will come next is: 0.7789517178495284
+The probability that print will come next is: 0.22104828215047162
+The predict value coming after value: print
+The probability that Set will come next is: 0.7768046150791208
+The probability that print will come next is: 0.2231953849208792
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16116354628450746
+The probability that print will come next is: 0.8388364537154925
+The predict value coming after value: print
+The probability that Set will come next is: 0.7770129711337347
+The probability that print will come next is: 0.22298702886626534
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16116652070379808
+The probability that print will come next is: 0.838833479296202
+The predict value coming after value: print
+The probability that Set will come next is: 0.7772199137632462
+The probability that print will come next is: 0.22278008623675383
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611694734052501
+The probability that print will come next is: 0.8388305265947499
+The predict value coming after value: print
+The probability that Set will come next is: 0.7774254573013686
+The probability that print will come next is: 0.22257454269863153
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16117240462580498
+The probability that print will come next is: 0.838827595374195
+The predict value coming after value: print
+The probability that Set will come next is: 0.7776296158886766
+The probability that print will come next is: 0.22237038411132334
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16117531459909287
+The probability that print will come next is: 0.8388246854009072
+The predict value coming after value: print
+The probability that Set will come next is: 0.7778324034759159
+The probability that print will come next is: 0.22216759652408416
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611782035552249
+The probability that print will come next is: 0.8388217964447751
+The predict value coming after value: print
+The probability that Set will come next is: 0.7780338338269503
+The probability that print will come next is: 0.22196616617304962
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16118107172111715
+The probability that print will come next is: 0.8388189282788827
+The predict value coming after value: print
+The probability that Set will come next is: 0.7782339205221797
+The probability that print will come next is: 0.2217660794778204
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16118391932040518
+The probability that print will come next is: 0.8388160806795948
+The predict value coming after value: print
+The probability that Set will come next is: 0.7784326769612978
+The probability that print will come next is: 0.22156732303870222
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16118674657346105
+The probability that print will come next is: 0.8388132534265389
+The predict value coming after value: print
+The probability that Set will come next is: 0.7786301163664356
+The probability that print will come next is: 0.2213698836335643
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611895536976353
+The probability that print will come next is: 0.8388104463023647
+The predict value coming after value: print
+The probability that Set will come next is: 0.7788262517851564
+The probability that print will come next is: 0.22117374821484373
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611923409070604
+The probability that print will come next is: 0.8388076590929395
+The predict value coming after value: print
+The probability that Set will come next is: 0.7790210960931198
+The probability that print will come next is: 0.2209789039068802
+The predict value coming after value: print
+The probability that Set will come next is: 0.7769577091158058
+The probability that print will come next is: 0.2230422908841943
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16117239766733935
+The probability that print will come next is: 0.8388276023326606
+The predict value coming after value: print
+The probability that Set will come next is: 0.7771574471109312
+The probability that print will come next is: 0.2228425528890689
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16117522478426266
+The probability that print will come next is: 0.8388247752157374
+The predict value coming after value: print
+The probability that Set will come next is: 0.7773558827589954
+The probability that print will come next is: 0.22264411724100458
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16117803206198136
+The probability that print will come next is: 0.8388219679380187
+The predict value coming after value: print
+The probability that Set will come next is: 0.7775530287560636
+The probability that print will come next is: 0.22244697124393642
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611808197086597
+The probability that print will come next is: 0.8388191802913403
+The predict value coming after value: print
+The probability that Set will come next is: 0.7777488976337994
+The probability that print will come next is: 0.2222511023662006
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16118358792942697
+The probability that print will come next is: 0.8388164120705731
+The predict value coming after value: print
+The probability that Set will come next is: 0.7779435017619426
+The probability that print will come next is: 0.2220564982380574
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16118633692667259
+The probability that print will come next is: 0.8388136630733275
+The predict value coming after value: print
+The probability that Set will come next is: 0.7781368533510882
+The probability that print will come next is: 0.22186314664891174
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611890668999688
+The probability that print will come next is: 0.8388109331000311
+The predict value coming after value: print
+The probability that Set will come next is: 0.7783289644550764
+The probability that print will come next is: 0.2216710355449236
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16119177804606147
+The probability that print will come next is: 0.8388082219539386
+The predict value coming after value: print
+The probability that Set will come next is: 0.7785198469735617
+The probability that print will come next is: 0.2214801530264384
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16119447055910147
+The probability that print will come next is: 0.8388055294408985
+The predict value coming after value: print
+The probability that Set will come next is: 0.778709512654566
+The probability that print will come next is: 0.2212904873454339
+The predict value coming after value: Set
+The probability that Set will come next is: 0.16119714463045456
+The probability that print will come next is: 0.8388028553695454
+The predict value coming after value: print
+The probability that Set will come next is: 0.7788979730967305
+The probability that print will come next is: 0.22110202690326947
+The predict value coming after value: Set
+The probability that Set will come next is: 0.1611998004489792
+The probability that print will come next is: 0.8388001995510207
+The predict value coming after value: print
+The probability that Set will come next is: 0.7790852397518295
+The probability that print will come next is: 0.2209147602481704

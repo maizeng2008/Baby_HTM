@@ -75,32 +75,3 @@ class SpatialPooler:
         f.write("\r\n")
         f.close()
         return self
-
-    # def rank_overlap_scores(self):
-    #     print(self.overlap_ranked_table)
-    #     for row_number in range(self.overlap_score_table.shape[0]):
-    #         print(self.overlap_score_table[row_number])
-    #         self.overlap_ranked_table[row_number] = \
-    #             sum(1 for x in self.overlap_score_table[row_number] if self.overlap(x))
-    #     order = self.overlap_ranked_table.argsort()[::-1]
-    #     # ranks = order.argsort()
-    #     # f = open("overlap_ranked_table.txt", "w")
-    #     # print(self.overlap_ranked_table)
-    #     # np.savetxt(f, self.overlap_ranked_table, fmt='%.1f')
-    #     # f.close()
-    #     # print(order)
-    #     # f = open("order.txt", "w")
-    #     # np.savetxt(f, order, fmt='%.1f')
-    #     # f.close()
-    #     # print("Output sorted array : ", self.overlap_ranked_table[order])
-    #     # f = open("overlap_ranked_table_ordered.txt", "w")
-    #     # np.savetxt(f, self.overlap_ranked_table[order], fmt='%.1f')
-    #     # f.close()
-    #     # ranks = order.argsort()
-    #     # f = open("ranked.txt", "w")
-    #     # np.savetxt(f, ranks, fmt='%.1f')
-    #     # f.close()
-    #     self.winner_columns = order[:self.num_winner_columns]
-    #     # print(self.winner_columns)
-    #     # print(np.where(self.overlap_ranked_table >= self.overlap_threshold))
-    #     # print(ranks)

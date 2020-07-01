@@ -13,36 +13,15 @@ if __name__ == "__main__":
     TemporalMemoryPooler = TemporalMemoryPooler.TemporalMemoryPooler(4, 2048, 0.5, 0.1, 0.02)
     cla_classifier = ClaClassifier.ClaClassifier(2048)
     # Get instruction lines
-    instruction_lines = Utils.FileReader.read_instruction_test_file()
+    instruction_bundle = Utils.FileReader.read_instruction_test_file()
+    instruction_lines = instruction_bundle[0]
     i = 0
     for line in instruction_lines:
         i += 1
         data = Encoder.encode({'Instruction': line.rstrip()})
         sp = SpatialPooler.overlap_phase(data)
         t_m = TemporalMemoryPooler.temporal_memory(sp)
-        cla_classifier.classify(sp, t_m, line.rstrip())
-        if i == 3:
-            print(data)
-            print(np.where(sp.s_p_visual))
-        if i == 4:
-            print(data)
-            print(np.where(sp.s_p_visual))
-        if i == 5:
-            print(data)
-            print(np.where(sp.s_p_visual))
-        if i == 100:
-            print(data)
-            print(np.where(sp.s_p_visual))
-        if i == 101:
-            print(data)
-            print(np.where(sp.s_p_visual))
-        if i == 103:
-            print(data)
-            print(np.where(sp.s_p_visual))
-        if i == 597:
-            print(np.where(sp.s_p_visual))
-        if i == 598:
-            print(np.where(sp.s_p_visual))
+        cla_classifier.classify(sp, t_m, line.rstrip(), instruction_bundle[1])
 
     # sp = SpatialPooler.overlap_phase(Encoder.encode({'Instruction': 'Set'}))
     # t_m = TemporalMemoryPooler.temporal_memory(sp)
