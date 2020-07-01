@@ -39,14 +39,19 @@ class SpatialPooler:
                     elif self.spatial_pooler[row_number][cell_permanence_number] < self.permanence_threshold:
                         # overlap doesnt happen
                         self.spatial_pooler[row_number][cell_permanence_number] -= self.permanence_dec
+                        if self.spatial_pooler[row_number][cell_permanence_number] == 0:
+                            self.spatial_pooler[row_number][cell_permanence_number] = 0
                         self.overlap_score_table[row_number][cell_permanence_number] = 0
                 else:
                     if self.spatial_pooler[row_number][cell_permanence_number] > 0:
-                        self.spatial_pooler[row_number][cell_permanence_number] = 0  # overlap doesnt happen
+                        self.spatial_pooler[row_number][
+                            cell_permanence_number] -= self.permanence_dec  # overlap doesnt happen
                         self.overlap_score_table[row_number][cell_permanence_number] = 0
                     else:
                         self.spatial_pooler[row_number][
                             cell_permanence_number] -= self.permanence_dec  # overlap doesnt happen
+                        if self.spatial_pooler[row_number][cell_permanence_number] == 0:
+                            self.spatial_pooler[row_number][cell_permanence_number] = 0
                         self.overlap_score_table[row_number][cell_permanence_number] = 0
 
         for row_number in range(self.overlap_score_table.shape[0]):

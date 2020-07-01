@@ -34,7 +34,7 @@ class ClaClassifier:
             # let the winner cell column number to be 1
             spatial_pooler_pattern[spatial_pooler.winner_columns] = 1
             self.buckets[predict_field_value] += spatial_pooler_pattern
-            sum_array = np.sum(np.where(self.buckets[predict_field_value] != 0))
+            sum_array = np.sum(self.buckets[predict_field_value])
             uniform_array = self.buckets[predict_field_value]
             # print(uniform_array.shape)
             # for i in range(uniform_array.shape[0]):
@@ -47,20 +47,15 @@ class ClaClassifier:
             winner_cols = np.where(self.buckets[predict_field_value] > 0)
             for s_p_key in self.buckets.keys():
                 summation = 0
+                sp_compare_cols = np.where(self.buckets[s_p_key])[0]
                 for c_index in winner_cols[0]:
-                    w_cols = np.where(self.buckets[s_p_key])[0]
                     for i in range(3):
                         pre_matrix = temporal_pooler.temporal_memory_pooler[c_index][i]
-                        # print(pre_matrix.shape)
-                        # pre_sum = np.sum(pre_matrix, axis=0)
                         pre_sum = np.sum(pre_matrix, axis=1)
-                        # print(pre_sum.shape)
-                        # print(np.where(pre_sum != 0))
-                        # for w_col in w_cols:
-                        #     summation += pre_sum[w_col]
-                        summation += np.sum(pre_sum[w_cols], axis=0)
+                        for same_col in sp_compare_cols:
+                            summation += pre_sum[same_col]
                         # print(summation)
-                    summation = summation * uniform_array[c_index]
+                summation = summation * uniform_array[c_index]
                 prediction_table[s_p_key] = summation
             # do the uniform
             summation_prediction = 0
