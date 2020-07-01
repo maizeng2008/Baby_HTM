@@ -11,7 +11,7 @@ if __name__ == "__main__":
     SpatialPooler = SpatialPooler.SpatialPooler(80, 2048, 0.07, 0.02, 0.5, 25)
     TemporalMemoryPooler = TemporalMemoryPooler.TemporalMemoryPooler(4, 2048, 0.5, 0.07, 0.02)
     cla_classifier = ClaClassifier.ClaClassifier(2048)
-
+    # Get instruction lines
     instruction_lines = Utils.FileReader.read_instruction_test_file()
     for line in instruction_lines:
         sp = SpatialPooler.overlap_phase(Encoder.encode({'Instruction': line.rstrip()}))
